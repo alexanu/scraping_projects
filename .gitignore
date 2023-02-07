@@ -1,0 +1,7 @@
+credentials.ini
+credentials.py
+token.txt
+*.xlsx
+*.exe
+*.zip
+google-sheets-creds-python.json

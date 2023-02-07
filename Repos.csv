@@ -1,0 +1,604 @@
+,My_ID,Source,Parent,Parent_ID,Parent_Update,Created,Size,Descrip
+0,193373597,Forked,tg12/-NEWPROJECT-S-R-IG-Index,173127564,2020-10-21 17:22:14,2019-06-23 16:55:22,664,"Python script to detect Support and resistance levels, using IG Index"
+1,258465451,Forked,Sahanduiuc/10k_scraper,240090943,2020-05-09 05:20:29,2020-04-24 09:23:06,33,
+2,314638676,Forked,Deutsche-Boerse/a7,287221319,2021-01-18 18:26:33,2020-11-20 18:33:18,1252,Cloud-based access to high-quality order-by-order historical market data from Eurex and Xetra
+3,197612822,Forked,thoriuchi0531/adagio_backtest,95947112,2018-04-24 04:33:38,2019-07-18 15:26:09,15,Run backtest using package adagio
+4,258767116,Forked,fernandodelacalle/adv-financial-ml-marcos-exercises,158297233,2021-02-20 16:35:17,2020-04-25 12:12:33,1695,Exercises of the book: Advances in Financial Machine Learning by Marcos Lopez de Prado
+5,194269733,Forked,Rachnog/Advanced-Deep-Trading,171053047,2021-02-22 07:08:42,2019-06-28 12:24:06,1588,"Mostly experiments based on ""Advances in financial machine learning"" book"
+6,232669010,Forked,BlackArbsCEO/Adv_Fin_ML_Exercises,131040588,2021-02-24 16:39:00,2020-01-08 22:03:57,5169,Experimental solutions to selected exercises from the book [Advances in Financial Machine Learning by Marcos Lopez De Prado]
+7,321185804,Forked,boyboi86/AFML,267579243,2021-02-26 21:01:37,2020-12-13 23:55:42,3556,All the answers for exercises from Advances in Financial Machine Learning by Dr Marco Lopez de Parodo.
+8,315151688,Forked,stationedabroad/Airflow_Pipeline_US_STOCK,220352813,2020-02-21 06:55:21,2020-11-22 23:16:37,11224,
+9,173923573,Forked,paperduck/algo,27623406,2019-10-28 07:51:45,2019-03-05 10:15:31,633,running multiple algorithmic trading strategies concurrently with Oanda and MySQL
+10,229635395,Forked,trailofbits/algo,58842707,2021-02-26 21:46:40,2019-12-22 21:48:21,2695,Set up a personal VPN in the cloud
+11,241862198,Forked,quantopian/algorithm-component-library,53450215,2021-02-07 15:35:21,2020-02-20 11:01:29,40,A collection of code snippets that can be constructed into larger trading algorithms.
+12,339883226,Forked,chrisconlan/algorithmic-trading-with-python,252342235,2021-02-26 19:09:09,2021-02-17 23:30:24,4953,Source code for Algorithmic Trading with Python (2020) by Chris Conlan
+13,173623449,Forked,jp-quant/AlgorithmicTrading-Academic-Project-,119454992,2021-01-19 09:53:25,2019-03-03 20:01:29,1046,Backtesting and Live Trading Financial Markets with Alpaca
+14,336058694,Forked,JerBouma/AlgorithmicTrading,175590468,2021-02-25 08:32:27,2021-02-04 19:19:35,5014,"This repository contains three ways to obtain arbitrage which are Dual Listing, Options and Statistical Arbitrage. These are projects in collaboration with Optiver and have been peer-reviewed by staff members of Optiver. Therefore, much of the analysis are correct and give an indication how these methods work."
+15,174356909,Forked,radhaisme/algotrader-4,163555568,2020-03-17 15:22:20,2019-03-07 14:14:21,280,"Event driven algorithmic trading engine. Oanda, Quandl, InfluxDB"
+16,207799969,Forked,jikun/Pairs-Trading,36206039,2020-01-13 23:55:21,2019-09-11 11:51:33,66396,"Algorithmic Trading, Baruch course project"
+17,269458976,Forked,junyittcxt/allo,263192767,2020-09-21 14:17:08,2020-06-04 20:30:00,338,
+18,168684786,Forked,AndrewAMD/AllyInvestZorroPlugin,99117846,2019-07-23 15:53:56,2019-02-01 11:00:22,558,"A Zorro broker API plugin for Ally Invest, written in Win32 C++."
+19,241861687,Forked,quantopian/alphalens,60379729,2021-02-26 04:18:36,2020-02-20 10:58:38,90576,Performance analysis of predictive (alpha) stock factors
+20,285928381,Forked,talsan/alphavantage,277199176,2020-07-17 17:55:29,2020-08-07 22:03:05,24,"download prices from alpha vantage and calculate returns, with optional aws integration (s3 + athena)"
+21,193459375,Forked,twopirllc/AlphaVantageAPI,142054116,2021-01-23 18:47:19,2019-06-24 07:50:30,344,An Opinionated AlphaVantage API Wrapper in Python 3.7.  FREE API Key: https://www.alphavantage.co/support/
+22,176037072,Forked,RomelTorres/alpha_vantage,89801027,2021-02-26 21:20:17,2019-03-16 23:52:08,955,A python wrapper for Alpha Vantage API for financial data.
+23,213480615,Forked,bashtage/arch,23468876,2021-02-26 20:17:30,2019-10-07 20:30:58,27184,ARCH models in Python
+24,174337069,Forked,man-group/arctic,36506399,2021-02-26 13:13:42,2019-03-07 12:08:08,1945,"datastore for time series and tick data:  takes pandas df-s and compresses them into smaller chunks and pushes them into MongoDB for storage. fast to query specific date ranges and also to write data. However, to do any sort of analysis, you need to take out the data from Arctic and use Python (rather than doing in-database computation).achieves ~10x compression on network bandwidth, ~10x compression on disk, and scales to hundreds of millions of rows per second per MongoDB instance. Multiple versions of each data item. Can easily read previous versions. + Column oriented tick database"
+25,176262110,Forked,jamespeterschinner/async_v20,106769264,2020-11-04 02:41:04,2019-03-18 10:46:41,7718, Asynchronous client for FOREX broker
+26,173627191,Forked,ivan-vasilev/atpy,75980408,2021-02-21 12:45:54,2019-03-03 20:39:43,542,"Event-driven Algorithmic Trading For Python IQFeed, Quandl, Intrinio. Storing with PostgreSQL and InfluxDB. Place orders with Interactive Brokers. Skopiroval nujnie chasti."
+27,173189512,Own,augustus,173189512,2020-10-21 02:26:03,2019-02-28 21:23:03,1516,Event manager with data from Oanda and MongoDB. some multithreading
+28,173614492,Forked,poryee/AutoTrading,148165190,2021-01-29 22:28:22,2019-03-03 18:35:55,1735,IG Markets REST API Library for Python. Also contains ML algos for forecasting
+29,211406913,Forked,mdibo/Avellaneda-Stoikov,107074539,2021-02-19 21:08:44,2019-09-27 21:50:42,4,Python code for High-frequency trading in a limit order book by Marco Avellaneda and Sasha Stoikov
+30,336417733,Forked,kernc/backtesting.py,163788469,2021-02-26 21:51:00,2021-02-05 23:59:38,6090,:mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
+31,175970261,Forked,mementum/backtrader,29050338,2021-02-26 21:46:09,2019-03-16 12:38:14,22258,Python Backtesting library for trading strategies
+32,199406359,Forked,happydasch/btoandav20,123475227,2021-02-18 01:43:08,2019-07-29 07:59:11,93,Support for Oanda-V20 API in backtrader
+33,211731773,Forked,mg64ve/backtrader-walkforward,193249354,2021-01-12 21:47:14,2019-09-29 22:01:41,5,Example of walk-forward for Backtrader
+34,317492138,Forked,tke578/barchart,288032390,2021-02-20 07:32:57,2020-12-01 09:37:35,39,The unofficial API of barchart.com
+35,285927747,Forked,blais/baskets,266006637,2021-01-16 16:05:28,2020-08-07 21:58:11,222,Break down ETFs and report aggregated exposure to individual instruments
+36,188528463,Forked,swang2016/benzinga_movers_scraper,180028727,2020-07-07 17:36:30,2019-05-25 06:18:32,98521,"Web Scraper for Pulling Stock Movement Headlines From Benzinga. In addition to scraping headlines, additional functions for obtaining historical price and volume data using the IEX API are included. Functions for scraping earnings filing dates from Marketwatch are also available. Lastly, pre-scraped data recent as of 05/03/2019 is available in the Data folder."
+37,293740163,Forked,BodonFerenc/bestSize,196997010,2019-11-15 11:42:44,2020-09-08 07:53:47,29,Calculating best size of buyer's quotes
+38,175855459,Forked,ghnou/BlackFire_Capital,154223480,2019-05-27 18:59:30,2019-03-15 16:27:42,63173,Project on trading strategy
+39,177172293,Forked,matthewgilbert/blotter,84707838,2021-02-02 14:40:48,2019-03-22 16:13:25,957,A financial blotter for trading FX and Futures. endpoint to book the price of executed trades and provide marked to market holdings and PnL.
+40,174337954,Forked,TalaikisInc/blueblood,135635571,2020-09-10 17:15:30,2019-03-07 12:14:07,6244,big one. has many data sources. Blue Blood Engine - quantitative trading strategies integration and indexing platform.
+41,203470671,Forked,26medias/bot-lazy-trader,176016014,2021-01-30 02:10:26,2019-08-20 23:39:24,31,"Oanda+NodeJS+AWS Lambda ""Lazy Trader"" strategy from https://www.reddit.com/r/Forex/comments/b1tuhb/a_lazy_way_to_trade_forex/ - License: MIT"
+42,175905905,Forked,pmorissette/bt,21006723,2021-02-26 10:15:06,2019-03-15 23:56:50,4476,bt - flexible backtesting for Python
+43,176036140,Forked,Dave-Vallance/bt-ig-store,105252634,2020-12-09 10:15:38,2019-03-16 23:36:48,47,IG Markets Store for Backtrader
+44,210949965,Forked,jjakimoto/btbot,147128049,2020-06-28 03:15:42,2019-09-25 22:13:30,21,Trading Bot using backtrader.
+45,204210555,Forked,Kismuz/btgym,92314074,2021-02-23 17:40:14,2019-08-24 20:41:42,129752,"Scalable, event-driven, deep-learning-friendly backtesting library"
+46,206289236,Forked,th3sys/capsule,104077988,2021-01-22 18:41:24,2019-09-04 10:03:45,59444,TWS Market Data Adapter
+47,175855492,Forked,clcarver1130/carver_hunt_trading,165716736,2019-03-19 12:33:32,2019-03-15 16:27:55,1599,Repository to hold and collaborate on trading algorithms. 
+48,194250305,Forked,quantmind/ccy,3763907,2021-01-09 16:02:01,2019-06-28 09:53:14,436,python module for currencies
+49,174355697,Forked,th3sys/chaos,109695000,2020-10-21 03:07:51,2019-03-07 14:08:35,120,"Distributed Trading Platform. Uses IB as data sources, which is run from EC2 container, stores it in DynamoDB, sends order to LambdaStrategies"
+50,218231450,Forked,mdengler/cla,10162336,2020-10-27 10:33:32,2019-10-29 07:47:48,21,An Open-Source Implementation of the Critical-Line Algorithm for Portfolio Optimization
+51,174237770,Forked,phuocidi/cleaned_tick_data,66745877,2019-03-06 23:17:54,2019-03-06 23:40:38,2161,Download and process forex tick data from GAIN Capital. 
+52,256969572,Forked,NasraS/Cloud.FinanceAPI,178478860,2019-03-29 21:41:05,2020-04-19 10:18:00,6,This is a Cloud application which was developed using Python to deploy an app using cassandra and access FXCM API for market data.
+53,278875843,Forked,jay-johnson/convert-stock-ticker-into-cik-json,21597924,2018-09-17 19:17:24,2020-07-11 14:17:53,136,Quickly Convert Stock Tickers into the associated SEC CIK with Company Name and dump to JSON
+54,235463723,Forked,sudhamstarun/Credit-Default-Swap-Search-Engine,171003867,2020-05-29 05:54:43,2020-01-21 23:46:14,7774,Credit Default Swap Search Engine is an efficient search engine based on RESTful APIs to allow you to search and navigate historical mentions of credit default swaps all the way from 2004 - 2017.
+55,206316568,Forked,JimmyStudio/CTPTrader,114974362,2018-12-23 04:59:42,2019-09-04 12:42:12,3185,back testing and trading system by python and c++
+56,229635281,Forked,darwinex/darwin-api-tutorials,182775416,2020-10-13 18:10:20,2019-12-22 21:47:24,6233,"Tutorial videos, posts, and source code in Python & R to assist algorithmic traders and DARWIN investors in getting up and running with the DARWIN API."
+57,197734169,Forked,darwinex/DarwinexLabs,96521495,2021-02-19 01:10:47,2019-07-19 08:28:39,60153,"Datasets, tools and more from Darwinex Labs - Prop Investing Arm & Quant Team @ Darwinex"
+58,174327089,Forked,paduel/darwinex_ticks,157247556,2020-07-29 10:56:12,2019-03-07 10:56:40,890,A simple Darwinex ticks data Python API.
+59,197394002,Forked,aconstandinou/data-warehouse-build,140505351,2021-02-21 22:30:44,2019-07-17 13:21:25,10,
+60,211407956,Forked,Deutsche-Boerse/dbg-pds,101282695,2021-02-11 23:15:33,2019-09-27 22:00:46,1521,Deutsche Boerse's Financial Trading Public Data Set
+61,211408126,Forked,Originate/dbg-pds-tensorflow-demo,133533209,2021-02-18 20:34:51,2019-09-27 22:02:32,3468,Making predictions on prices in the Deutsche Börse Public Dataset using neural networks
+62,260782435,Forked,decisivealpha/DecisiveML,255322821,2021-02-08 18:53:07,2020-05-02 21:57:51,326,Machine learning end-to-end research and trade execution
+63,260782026,Forked,Rachnog/Deep-Portfolio-Management,211406353,2021-02-21 14:44:56,2020-05-02 21:55:01,6374,Source code for the blog post on the evolution of the asset allocation methods
+64,193561250,Forked,euclidjda/deep-quant,103989414,2021-02-15 11:07:47,2019-06-24 18:49:44,15660,Deep learning for forecasting company fundamental data
+65,205039114,Forked,Rachnog/Deep-Trading,61446951,2021-02-21 17:33:32,2019-08-28 23:11:55,234635,Algorithmic trading with deep learning experiments
+66,263393008,Forked,GitiHubi/deepAI,92290612,2021-02-22 21:43:23,2020-05-12 16:35:20,38403,"Detection of Accounting Anomalies using Deep Autoencoder Neural Networks - A lab we prepared for NVIDIA's GPU Technology Conference 2018 that will walk you through the detection of accounting anomalies using deep autoencoder neural networks. The majority of the lab content is based on Jupyter Notebook, Python and PyTorch. "
+67,269461549,Forked,alexanderpei/DeepEarnings,267971776,2021-02-21 13:33:17,2020-06-04 20:44:39,103902,
+68,294677939,Forked,mfrdixon/Deep_Fundamental_Factors,279732393,2021-02-19 17:01:16,2020-09-11 11:32:30,1745,"Source code for Deep Fundamental Factor Models,  https://arxiv.org/abs/1903.07677"
+69,314640729,Forked,gupta-dipanshu/deutsche-boerse,290240778,2020-09-07 11:41:01,2020-11-20 18:42:57,2325,Analysing the Deutsche Börse Public Dataset (DBG PDS) 
+70,210612940,Own,de_Prado,210612940,2019-09-24 13:43:14,2019-09-24 13:42:16,2,experiment from Lopez de Prado book
+71,193788424,Forked,yuriak/DLQuant,139506236,2021-01-29 14:57:45,2019-06-25 21:54:30,1565,Applying Deep Learning and NLP in Quantitative Trading
+72,206559629,Forked,ekmmrs/DMD_sector_rotation,173391361,2019-10-09 11:30:17,2019-09-05 12:34:16,10,Code covering DMD sector rotation strategy
+73,168701453,Forked,yhilpisch/documentation,140394731,2020-10-23 08:20:24,2019-02-01 13:28:22,471,The repository contains files used in the respective Tools & Skills training module.
+74,194253536,Forked,gaoxiaojun/DTC,21770527,2020-03-27 03:19:21,2019-06-28 10:15:39,361,"An open communications protocol for financial market data, trading, historical market data and historical price data."
+75,174336471,Forked,giuse88/duka,55841765,2021-02-18 06:56:40,2019-03-07 12:03:52,3769, duka - Dukascopy historical data downloader 
+76,250386967,Forked,darwinex/dwx-zeromq-connector,176258612,2021-02-25 15:33:10,2020-03-26 22:36:07,5701,"Wrapper library for algorithmic trading in Python 3, providing DMA/STP access to Darwinex liquidity via a ZeroMQ-enabled MetaTrader Bridge EA."
+77,210464819,Forked,AndrewAMD/DynamicArray,132396083,2020-04-26 19:45:15,2019-09-23 22:39:26,44,A basic dynamic array library intended for the Zorro Trading Automaton.
+78,168662778,Forked,MerlinBrasil/dztools,31296558,2017-02-14 16:22:24,2019-02-01 08:00:21,1380,Tools for trading with the Zorro platform and Dukascopy broker.
+79,211735171,Forked,juxeii/dztools,81964776,2020-01-22 12:35:55,2019-09-29 22:39:49,1240,
+80,194933930,Forked,evdubs/ecnet-earnings-calendar,173067969,2020-11-05 03:26:05,2019-07-02 20:57:20,10,ETL for earningscalendar.net
+81,173619871,Forked,andrevlima/economic-calendar-api,148673456,2021-02-01 10:48:35,2019-03-03 19:26:28,35,PHP economic calendar of events from forexprostools. uses the investing.com as data source.
+82,328271576,Forked,ernestcr/ECR-High-Frequency-Trading-Model-with-IB,198567544,2020-04-03 19:17:48,2021-01-10 00:15:14,1291,A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python
+83,206672199,Forked,vschon/edgar,15033953,2020-08-13 03:46:23,2019-09-05 23:11:25,247344,Extract sentiment information from 10Q/K forms and predict short term stock return
+84,195803441,Forked,Arelle/EdgarRenderer,34135935,2021-02-13 02:36:08,2019-07-08 12:01:43,5953,EDGAR Renderer enables investors to view the interactive data filings submitted under the US Security and Exchange Commission (SEC) rules that require the use of XBRL via the SEC website. 
+85,168699471,Forked,yhilpisch/eikondataapi,156582307,2021-01-22 09:56:06,2019-02-01 13:12:17,29700,Hilpisch: Eikon Data API Tutorials
+86,294680082,Forked,tradytics/eiten,293687812,2021-02-26 02:36:15,2020-09-11 11:43:24,731,Statistical and Algorithmic Investing Strategies for Everyone
+87,176258804,Forked,qg0/EliteQuant_Python,112031190,2020-10-07 01:23:49,2019-03-18 10:29:11,29414,"Python quantitative trading and investment platform; Python3 based multi-threading, concurrent high-frequency trading platform that provides consistent backtest and live trading solutions. It follows modern design patterns such as event-driven, server/client architect, and loosely-coupled robust distributed system. It follows the same structure and performance metrix as other EliteQuant product line, which makes it easier to share with traders using other languages."
+88,285930161,Own,etf-analyzer,285930161,2020-10-21 01:43:51,2020-08-07 22:17:55,20530,"tool for visualizing, predicting, and clustering iShares exchange-traded funds (ETFs)"
+89,310600481,Forked,ME-64/etf-data-git,230246302,2020-01-11 20:34:02,2020-11-06 13:10:06,11035,Repository to scrape ETF related data from European ETF issuers. The transparent nature of ETFs means most data is published publicly on websites for consumption
+90,285929961,Forked,willzittlau/ETFSite,281471722,2020-11-27 16:24:36,2020-08-07 22:16:18,21,This site will convert a portfolio containing ETFs and break it down into exposure to their individual holdings.
+91,234490847,Forked,shreyasgokhale/eurotrip-planner,233466350,2020-08-21 11:19:28,2020-01-17 07:01:43,17,Plan your next EuroTrip using power of Skyscanner APIs
+92,206672305,Forked,AdamSpannbauer/extend_loughran_mcdonald,205420811,2019-08-31 17:19:51,2019-09-05 23:12:29,30396,
+93,173731646,Forked,tg12/FAIG,117366959,2021-02-07 19:13:56,2019-03-04 11:24:22,185,Fully Automated IG Trading. There is an example for regression usage for forecasting
+94,193376763,Forked,tg12/FAIG-Stocks,120494969,2020-10-21 17:20:59,2019-06-23 17:29:10,103,"FAIG (Fully Automated IG) ... With stocks, FTSE100"
+95,205254487,Forked,JonnyFLDN/Federal-Reserve-Minutes-Topic-and-Sentiment-Modelling,159843814,2020-12-04 21:28:09,2019-08-29 21:37:52,23402,
+96,175893952,Forked,csvsoundsystem/federal-treasury-api,9134978,2020-12-08 22:09:45,2019-03-15 21:33:02,17738,"The scraper, parser, and database creation scripts for Financial Management Service daily U.S. Treasury statements."
+97,266642577,Forked,paduel/fhub,259721830,2021-02-02 00:24:07,2020-05-24 23:34:56,165,Python client for Finnhub API
+98,193488353,Forked,wywongbd/fidelity_innovation_competition_2017,117504648,2019-02-06 15:19:47,2019-06-24 10:58:30,206,A study which aims to verify the correlation between sentiments from analyst reports and stock price movements.
+99,307740845,Forked,shashankvemuri/Finance,239389449,2021-02-25 23:17:03,2020-10-27 15:15:31,94733,Here you can find all the quantitative finance algorithms that I've worked on over the past year!
+100,336058929,Forked,JerBouma/FinanceDatabase,333850832,2021-02-26 22:11:40,2021-02-04 19:20:45,85486,"This is a database of 180.000+ symbols containing Equities, ETFs, Funds, Indices, Futures, Options, Currencies, Cryptocurrencies and Money Markets."
+101,175881437,Forked,jjakimoto/finance_ml,139197235,2021-02-22 12:22:18,2019-03-15 19:43:41,35764,Advances in Financial Machine  Learning by Marcos Lopez de Prado
+102,176308699,Forked,Jackal08/financial-data-structures,132508751,2020-12-24 14:28:33,2019-03-18 14:53:57,13328,"Create structured financial data in the form of time, tick, volume, and dollar bars from unstructured tick data. From Marcos Lopez de Prado's Advances in Financial Machine Learning textbook."
+103,206173426,Forked,JackBrady/Financial-Machine-Learning,195926252,2021-02-25 20:06:30,2019-09-03 21:13:12,4828,
+104,235464071,Forked,OnnoKampman/financial-news-2,128519538,2021-02-07 04:18:25,2020-01-21 23:49:22,578138,
+105,192237198,Forked,donli1210/financial-news-dataset,159060659,2018-11-25 18:14:56,2019-06-16 21:10:08,166825,"109,110 news from Reuters."
+106,315152417,Forked,apshah92/Financial-Scrapper,141200665,2020-02-08 08:09:45,2020-11-22 23:22:02,137,"An automated web scrapping application to scrap financial stock quotes from different websites like xtf.com, london stock exchange, yahoo finance historical data etc."
+107,176300157,Forked,EricHe98/Financial-Statements-Text-Analysis,95166683,2021-01-21 08:07:21,2019-03-18 14:10:25,652,"Documentation and code for downloading, cleaning, munging, and analyzing financial statements filed by publicly traded companies with the SEC"
+108,195803522,Forked,andrewkittredge/financial_fundamentals,8448090,2021-02-06 04:33:35,2019-07-08 12:02:25,782,Find XBRL filings on the SEC's Edgar and extract accounting metrics.
+109,230980338,Forked,ProsusAI/finBERT,218500041,2021-02-26 15:46:19,2019-12-30 21:10:16,36,Financial Sentiment Analysis with BERT
+110,181565841,Forked,ZDavid/FinData,180937586,2019-04-12 15:39:40,2019-04-15 21:06:11,1606,Neat data sets to use for financial research
+111,174418594,Forked,cuemacro/findatapy,64882291,2021-02-26 12:35:08,2019-03-07 20:54:58,3541,"Python library to download market data via Bloomberg, Quandl, Yahoo etc."
+112,174418441,Forked,cuemacro/finmarketpy,31042585,2021-02-26 19:23:33,2019-03-07 20:53:43,7128,Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)
+113,318901796,Forked,Finnhub-Stock-API/finnhub-python,265694118,2021-02-24 01:20:25,2020-12-05 22:27:16,192,"Finnhub Python API Client. Finnhub API provides institutional-grade financial data to investors, fintech startups and investment firms. We support real-time stock price, global fundamentals and alternative data. https://finnhub.io/docs/api"
+114,339536769,Forked,peterlacour/finpie,291940439,2021-02-18 10:11:33,2021-02-16 21:31:30,60242,Simple library to download some financial data.
+115,176040020,Forked,skillachie/finsymbols,10572169,2021-01-27 21:12:59,2019-03-17 00:39:24,434,"Obtains stock symbols and relating information for SP500, AMEX, NYSE, and NASDAQ "
+116,213486939,Forked,peerchemist/finta,67166080,2021-02-26 06:53:10,2019-10-07 21:06:29,521,Common financial technical indicators implemented in Pandas.
+117,188529516,Forked,mariostoev/finviz,110866117,2021-02-25 22:18:54,2019-05-25 06:30:48,101,Unofficial API for finviz.com
+118,264036810,Forked,shmalex/finviz_data,181557299,2019-09-17 17:48:07,2020-05-14 22:13:23,235118,Dataset Finviz
+119,180616145,Forked,pingfcc99/FixedIncomeQuantTrading,126764402,2021-01-24 07:00:54,2019-04-10 15:59:08,2016,"yield curve, constant maturity, Dynamic Nelson-Siegel (DNS) Model, eurodollar futures, PCA, ridge regression, collinearity"
+120,235755477,Own,Flight-Search,235755477,2020-05-01 17:19:59,2020-01-23 08:44:48,38,
+121,235460675,Forked,tobiasi/FOMCscrape,154975855,2020-04-19 09:42:21,2020-01-21 23:19:44,8,Scrapes the FED-website for the dates of the Federal Open Market Committee meetings
+122,342371727,Forked,simaki/fracdiff,229757611,2021-02-26 03:11:18,2021-02-25 20:34:02,4241,"Compute fractional differentiation (fracdiff) super-fast. Fracdiff processes time-series to be stationary while preserving its memory. Inspired by ""Advances in Financial Machine Learning"" by M. Prado."
+123,211700334,Forked,dceoy/fract,76593865,2021-02-02 06:58:42,2019-09-29 17:32:10,275,Automated Forex Trader based on oanda-cli
+124,175899643,Forked,philipperemy/fractional-differentiation-time-series,150350679,2021-01-18 11:09:55,2019-03-15 22:34:38,1992,As described in Advances of Machine Learning by Marcos Prado
+125,193559234,Forked,mortada/fredapi,23209140,2021-02-26 21:19:35,2019-06-24 18:35:29,47,Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
+126,173546808,Forked,codesociety/friartuck,105532842,2021-02-09 01:24:10,2019-03-03 07:59:48,2780,"Live Quant Trading Framework for Robinhood, using IEX Trading and AlphaVantage for Free Prices. Since Quantopian is keeping their framework for backtesting; my aim for this framework is to keep it was close to Quantopian as possible, this way I can backtest on Quantopian and run live using this framework."
+127,117755059,Own,Fun,117755059,2020-09-15 22:46:34,2018-01-16 23:22:05,9738,scraping etc
+128,272175428,Forked,JerBouma/FundamentalsQuantifier,256781141,2021-02-25 19:31:13,2020-06-14 10:02:16,456,"A tool that allows you to visually compare the fundamentals of over 6,000 companies."
+129,175097593,Forked,aouyang1/Futures,27307961,2021-02-21 06:41:10,2019-03-11 23:07:42,197,Futures trading database/backtester/analysis
+130,171973557,Forked,philipperemy/FX-1-Minute-Data,92007285,2021-02-26 12:36:22,2019-02-22 01:34:43,1879617,HISTDATA - Full Dataset composed of 68 FX trading pairs / Simple API to retrieve 1 Minute data Historical FX Prices.
+131,176262065,Forked,KobayashiTakaki/fx-junko,169405686,2021-01-16 05:42:50,2019-03-18 10:46:26,196,"FX bot: Oanda, SQL, Tweeter, Scheduler"
+132,327429039,Forked,antocapp/fx-trade,171920693,2021-02-22 06:33:12,2021-01-06 21:05:13,6604,"Free, open source forex trading bot integrated with Oanda and Telegram, with the possibility to implement machine learning and reinforcement learning strategies, besides classical ones."
+133,176262008,Forked,ByeRON/FX-trading-bot,168117840,2020-05-09 18:52:40,2019-03-18 10:46:04,455,
+134,256969289,Forked,FXCMAPI/fxcm-api-rest-python3-example,123580820,2020-11-26 23:31:09,2020-04-19 10:16:33,76,FXCM RESTful API client example for python3
+135,256967072,Forked,mithunmanohar/fxcm-api-stock-price-app,137528755,2020-06-28 17:58:02,2020-04-19 10:04:13,53,store and update data from fxcm api to a mysql database
+136,256955482,Forked,chaipat-ncm/fxcmpy,131683715,2021-02-13 15:53:45,2020-04-19 08:58:49,528,FXCM python wrapper
+137,256961583,Forked,michaelhazza/fxcmpy-latest,247946121,2020-12-27 09:02:03,2020-04-19 09:33:31,22,Created from the python-socketio library
+138,256958089,Forked,gurusawhney/FXCMRestAPI,137106409,2019-05-09 01:26:43,2020-04-19 09:13:56,11,Open-source code I wrote using FXCM's REST API
+139,256969776,Forked,JamesKBowler/fxcollect,89772649,2021-02-14 22:49:44,2020-04-19 10:19:09,266,Automate the simultaneous collection of historical and live financial data from FXCM
+140,256957869,Forked,JamesKBowler/fxcpy,127743361,2020-05-29 22:45:24,2020-04-19 09:12:47,3776,fxcpy is an open-soured python implementation of the Forexconnect API SDK offered by FXCM
+141,299421800,Forked,philipperemy/fxrt,264207716,2021-02-07 15:44:33,2020-09-28 20:17:11,8,Realtime FX prices from the Oanda broker.
+142,336060880,Forked,ryogrid/fx_systrade,39630035,2021-01-21 16:55:01,2021-02-04 19:29:11,86928,FX system trade programs
+143,316158174,Forked,shilewenuw/get_all_tickers,250926640,2021-02-26 20:24:03,2020-11-26 07:47:57,3905,Get all publicly traded tickers with this library
+144,209243278,Own,GH_plays,209243278,2019-09-18 14:12:00,2019-09-18 07:15:51,16,plays around scraping github
+145,263958294,Forked,petercerno/good-morning,26327380,2021-02-23 19:34:47,2020-05-14 15:50:19,44,Simple Python module for downloading fundamental financial data from financials.morningstar.com.
+146,218643081,Forked,goldmansachs/gs-quant,161840815,2021-02-26 21:54:20,2019-10-30 23:11:17,4915,Python toolkit for quantitative finance
+147,332083135,Forked,elquant/gspread-tick-prices,260542518,2020-05-01 19:37:32,2021-01-22 23:05:20,1,Write ticker symbol basic information to Google Spreadsheets
+148,197125204,Forked,PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading,185384163,2021-02-25 20:33:54,2019-07-16 05:19:09,113997,"Hands-On Machine Learning for Algorithmic Trading, published by Packt"
+149,263001987,Forked,mayabenowitz/hedgepy,256580846,2020-08-25 20:09:03,2020-05-11 09:48:06,27368,
+150,321185379,Forked,nickhuangxinyu/hft,175235470,2021-02-22 00:45:35,2020-12-13 23:52:28,67384,real high-frequency-trading system based on c++
+151,211406886,Forked,rspadim/hft-avellaneda,181488521,2020-10-25 08:53:40,2019-09-27 21:50:26,10,High-frequency trading in a limit order book
+152,180820818,Forked,Crypto-toolbox/HFT-Orderbook,98400312,2021-02-24 18:14:09,2019-04-11 15:26:50,302,"Limit Order Book for high-frequency trading (HFT), as described by WK Selph, implemented in Python3 and C"
+153,231960434,Forked,sapphire921/HFT-Pairs-Trading,132056536,2021-02-23 04:51:40,2020-01-05 18:42:28,225,High Frequency Pairs Trading Based on Statistical Arbitrage (Python) :moneybag:
+154,269416473,Forked,ZehaoDong32/Hierarchical-Risk-Parity-Approach,264716420,2020-07-30 23:17:04,2020-06-04 16:59:29,891,Hierarchical Risk Parity Approach in portfolio optimization
+155,175879368,Forked,jamesmawm/High-Frequency-Trading-Model-with-IB,19918845,2021-02-26 18:13:29,2019-03-15 19:26:48,1331,A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python
+156,210467210,Forked,trenki2/HistoryConverter,80945541,2018-07-24 07:51:31,2019-09-23 23:00:28,24,C# Code to convert the Dukascopy and Kibot historical data to the Zorro history format.
+157,269435451,Forked,kushal-sa/HRP,240940961,2020-02-25 23:13:44,2020-06-04 18:30:51,446,Hierarchical Risk Parity Based Paper Replication and Experiments
+158,269436887,Forked,andreybabynin/HRP,241901155,2021-02-04 06:15:37,2020-06-04 18:38:17,435,Hierarchical Risk Parity
+159,269458747,Forked,daniilmann/hrp,147155310,2019-03-02 08:58:59,2020-06-04 20:28:32,182,Hierarchical Risk Parity
+160,336059128,Forked,tschm/hrp,258008082,2021-02-26 17:50:04,2021-02-04 19:21:37,642,Run hierarchical risk parity algorithms
+161,303447647,Forked,AI-Stuff/hudson-and-thames-research,301843026,2021-02-26 04:46:50,2020-10-12 16:18:46,82659,Research Repo (Archive)
+162,234428044,Forked,WojciechZankowski/ib-product-parser,49754121,2018-10-05 19:48:51,2020-01-16 22:59:33,48,Simple command line application to parse Interactive Brokers products from their site.
+163,175854288,Forked,quantrocket-llc/ib-trading-calendars,168385877,2021-01-20 15:00:25,2019-03-15 16:20:30,40,"Open hours of many exchanges.Based on quantopian/trading_calendars. This package differs from the underlying quantopian/trading_calendars package in two ways. First, it uses IB exchange codes instead of MIC codes. Second, it corrects an issue with the open time, as described below."
+164,175716796,Forked,blampe/IbPy,2452739,2021-02-25 14:28:19,2019-03-14 23:45:34,543,Python API for the Interactive Brokers on-line trading system.
+165,175716377,Forked,erdewit/ib_insync,97003332,2021-02-26 16:05:43,2019-03-14 23:40:46,10922,Python sync/async framework for Interactive Brokers API
+166,269313538,Forked,BlackArbsCEO/iex_intraday_equity_downloader_public,137540077,2021-01-12 10:05:35,2020-06-04 09:17:01,814,
+167,174417327,Forked,ig-python/ig-markets-api-python-library,28721302,2021-02-24 14:24:44,2019-03-07 20:44:37,144,A lightweight Python library that can be used to get live data from IG Markets REST and STREAM API with a LIVE or DEMO account
+168,211735059,Forked,dan-lind/igzplugin,87112682,2020-11-06 20:52:53,2019-09-29 22:38:40,16038,Broker plugin for using IG with Zorro trader
+169,193376966,Forked,tg12/IG_Index_Scripts,119833283,2020-10-21 17:21:35,2019-06-23 17:31:25,9,Various collection of scripts for IG Index. 
+170,269416711,Forked,ZehaoDong32/Index-Tracking,264721099,2020-12-10 07:31:09,2020-06-04 17:00:38,492,Index tracking based on PCA and Deep Neural Network
+171,206288971,Forked,th3sys/insider,118329983,2020-07-05 12:32:57,2019-09-04 10:02:20,3405,Stock-Picking Strategy
+172,305988140,Forked,lhwolff15/InsiderTrading,305434868,2021-02-07 17:12:48,2020-10-21 10:27:54,85,Looks up insider trading transactions in a date range
+173,205880684,Forked,thoriuchi0531/intraday_data,129199046,2019-03-07 08:47:47,2019-09-02 15:01:01,3,Project on intraday/tick data
+174,238252327,Forked,alvarobartt/investpy,159351583,2021-02-26 21:54:08,2020-02-04 16:31:29,21792,Python package for financial historical data extraction from Investing.com
+175,198116986,Forked,tibkiss/iqfeed,62292314,2020-11-01 01:48:55,2019-07-21 23:58:32,17,IQFeed/DTN Downloader
+176,235461401,Forked,suryapratapmehra/IR_Project,111772098,2017-11-23 06:40:23,2020-01-21 23:25:59,34761,NLP on Reuters
+177,285928143,Forked,talsan/ishares,277238947,2020-12-10 16:21:11,2020-08-07 22:01:17,120,"scrape etf holdings histories from iShares.com, with optional aws integration (s3 + athena)"
+178,191838650,Forked,lukes/ISO-3166-Countries-with-Regional-Codes,1643676,2021-02-26 16:31:27,2019-06-13 21:59:05,185,"ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets"
+179,234428814,Forked,eternallyBaffled/itrade,58335550,2018-06-07 05:59:36,2020-01-16 23:05:19,11534,A simple clone of https://sourceforge.net/projects/itrade/ so I can push any changes I make to a public repository.
+180,203378459,Forked,stefan-jansen/machine-learning-for-trading,132754148,2021-02-26 20:46:53,2019-08-20 13:08:16,255856,"Notebooks, resources and references accompanying the book Machine Learning for Algorithmic Trading"
+181,211695556,Forked,jacobeskin/Kalman-Filter-Trading-System,131517116,2020-04-24 03:10:27,2019-09-29 16:55:34,16,"Fully automated trading system, strategy based on Kalman filter"
+182,180362861,Forked,QuantConnect/Lean,27251463,2021-02-26 18:50:22,2019-04-09 12:34:02,291505,"Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)"
+183,176365303,Forked,libtrading/libtrading,1037001,2021-02-25 04:00:57,2019-03-18 20:36:09,1356,"Libtrading, an ultra low-latency trading connectivity library for C and C++."
+184,175854104,Forked,bsegot/Limit_order_ML,169192801,2020-08-19 11:49:32,2019-03-15 16:19:22,17048,"custom limit order, an attempt to reduce indirect trading cost. execution with low liquid stocks for intraday trading. Use ML to forecast the next order going through the book."
+185,176366904,Forked,enewhuis/liquibook,8880377,2021-02-25 17:53:04,2019-03-18 20:47:39,794,Modern C++ order matching engine
+186,229634365,Forked,thertrader/Lobster-Python-Demo-Code,229002595,2020-12-22 16:33:50,2019-12-22 21:38:01,94,Python demo code for LOBSTER limit order book data
+187,315151570,Forked,stationedabroad/LondonStockExchange,219733501,2019-11-06 18:30:31,2020-11-22 23:15:51,7,Gathering data from the LSEX
+188,315153133,Forked,HarryS028/LSE-financial-scraper,303500820,2020-12-21 15:29:41,2020-11-22 23:27:23,29147,A web scraper to fetch financial data from the London Stock Exchange
+189,315152240,Forked,robertarnason/LSE_Scraper,233239117,2020-02-06 15:04:48,2020-11-22 23:20:49,5,Code to web scrape information from the London Stock Exchange
+190,207666649,Forked,joelowj/Machine-Learning-and-Reinforcement-Learning-in-Finance,138684835,2021-02-26 17:29:48,2019-09-10 21:30:38,2115,Machine Learning and Reinforcement Learning in Finance New York University Tandon School of Engineering
+191,307739779,Forked,emoen/Machine-Learning-for-Asset-Managers,273956761,2021-02-25 03:25:21,2020-10-27 15:11:55,2377,"Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitative Finance) written by Prof. Marcos López de Prado."
+192,177172190,Forked,matthewgilbert/mapping,95786840,2021-01-24 07:48:07,2019-03-22 16:12:44,3446,Futures Instrument Mapping Functionality
+193,180115212,Forked,tlesick/Market-Tracker,129002379,2018-05-04 20:39:28,2019-04-08 09:27:48,4443,"Follows the Foreign Exchange Markets . Determines what market is open based on daylight saving time, holidays, and returns which markets are open and any holidays. "
+194,173617595,Forked,iLampard/market_calendars,155664833,2019-07-03 01:07:21,2019-03-03 19:04:35,112,Chinese and US trading calendars with date math utilities
+195,269345795,Forked,samchaaa/market_profile,145571386,2020-11-25 18:57:14,2020-06-04 11:50:18,186,How to make simple market profile charts in seaborn.
+196,177749233,Forked,man-group/mdf,14138434,2021-02-09 08:13:43,2019-03-26 08:52:49,1060,"Data-flow programming toolkit for Python for expressing programs in Python as directed acyclic graphs (DAGS). Makes it easier to wire together quantitative trading strategies composed of related computations over time-series data, but it can be used as a toolkit for describing general computations as DAGS."
+197,173836028,Forked,hudson-and-thames/mlfinlab,170544934,2021-02-26 09:52:18,2019-03-04 23:08:36,445,Package based on the work of Dr Marcos Lopez de Prado regarding his research with respect to Advances in Financial Machine Learning
+198,194074300,Forked,bsegot/ML_NLP_backtest-trading-strategies,147119881,2020-04-07 16:13:30,2019-06-27 10:25:05,1144,///**
+199,199934364,Own,ML_snippets,199934364,2020-12-29 23:52:26,2019-07-31 21:56:31,3174,collection of snippets for data analysis
+200,224853073,Forked,carlospalol/money,14442636,2021-02-09 14:12:31,2019-11-29 12:47:45,139,Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
+201,174307964,Forked,Telmakaza/mongoDB_Tickstore,127342309,2019-04-18 06:54:34,2019-03-07 08:56:41,1657,Contains data and software to implement a mongoDB tick database.
+202,193370354,Forked,tg12/most_shorted_stocks,186874228,2020-12-31 09:34:01,2019-06-23 16:22:39,2322,Most Shorted Stocks (UK) By Institutional Investors
+203,193697736,Forked,frechfrechfrech/Mutual-Fund-Market-Clusters,129812791,2020-10-06 18:46:48,2019-06-25 11:49:31,2416,"Using kmeans clustering, hierarchical clustering, and dynamic time warp to find natural groups in mutual funds and broker dealer offices"
+204,200196682,Forked,radmerti/MVA2-PCA,63600870,2020-08-26 15:40:06,2019-08-02 08:27:12,1262,Principal Component Analysis of Yield Curves
+205,274792724,Own,myzorro,274792724,2020-10-20 14:03:26,2020-06-24 23:54:42,507,my scripts
+206,211408428,Forked,scarabus/Nanex,129008747,2021-02-05 04:00:13,2019-09-27 22:05:23,124,
+207,276912656,Forked,nautechsystems/nautilus_trader,138552196,2021-02-25 10:05:07,2020-07-03 13:58:54,31909,An algorithmic trading platform and event-driven backtester
+208,238899983,Forked,SenticNet/neeq-annual-reports,192455821,2021-02-20 20:45:34,2020-02-07 10:47:18,16490,A dataset for business models for small companies and NLP research.
+209,174238927,Forked,ntftrader/ntfdl,108048498,2019-12-18 19:32:56,2019-03-06 23:53:27,2186,Download intraday and historical data from the norwegian broker Netfonds ASA. The broker makes 15 minute delayed intraday data (up to 20 days) as well as historical data available freely as csv files.
+210,174444954,Forked,hootnot/oanda-api-v20,62941887,2021-02-26 03:46:22,2019-03-08 01:04:22,426,OANDA  REST-V20  API wrapper. Easy access to OANDA's REST v20 API with oandapyV20 package. Checkout the Jupyter notebooks!
+211,197711534,Forked,michalbrauner/oanda-python,160072999,2018-12-02 17:44:32,2019-07-19 06:03:20,688,Set of tools to work with Oanda API
+212,211707127,Own,OANDAforex,211707127,2020-07-08 02:59:18,2019-09-29 18:25:40,1307,Programs with OANDA API
+213,174423294,Forked,spespe/oandaPietro,67871653,2019-03-07 20:20:43,2019-03-07 21:31:18,71,Using OANDA REST api to trade on the forex market
+214,174423103,Forked,hootnot/oandapyV20-examples,74979313,2021-02-17 03:39:29,2019-03-07 21:29:53,259,Examples demonstrating the use of oandapyV20 (oanda-api-v20)
+215,173847706,Forked,jiansenzheng/oanda_trading,102987473,2021-02-03 16:38:22,2019-03-05 01:08:30,298,"Oanda, MongoDB, multithreading. Related to QuantStart.com"
+216,183584263,Forked,phil8192/ob-analytics,43770400,2021-01-20 08:46:18,2019-04-26 07:55:32,53060,Limit order book event processing and visualisation. R package
+217,194271295,Forked,petr-fedorov/obadiah,139334443,2021-02-18 21:38:30,2019-06-28 12:35:56,18037,Order Book Analytics Database
+218,298235299,Forked,petr-fedorov/oberon,254343732,2021-02-26 14:20:00,2020-09-24 09:45:58,25793,Order Book Events ReconstructiON from empirical data
+219,238899845,Forked,ubunatic/ohlc,126596915,2021-02-07 09:47:14,2020-02-07 10:46:21,846,open-high-low-close types and tools
+220,211695020,Forked,OmegaTrading/OmegaUI,132277372,2021-02-20 07:19:50,2019-09-29 16:51:29,561,Backtrader Front End
+221,180613793,Forked,tradingeconomics/tradingeconomics,33190168,2021-02-26 12:07:51,2019-04-10 15:45:40,68469,"TRADING ECONOMICS - API Code Examples. information for 196 countries including historical data for more than 300.000 economic indicators, exchange rates, stock market indexes, government bond yields and commodity prices. Our data is based on official sources, not third party data providers, and our facts are regularly checked for inconsistencies."
+222,168662131,Forked,after-the-sunrise/open-tickdb,4753134,2020-03-12 11:21:34,2019-02-01 07:55:14,76,Open source implementation of tick database
+223,193500588,Forked,LexPredict/openedgar,132481175,2021-02-25 14:17:29,2019-06-24 12:25:43,120,"OpenEDGAR (openedgar.io): framework for building databases from EDGAR, and can automate the retrieval and parsing of EDGAR forms"
+224,235463911,Forked,caowenwei/OpenMarketsNow,39267706,2016-01-22 16:00:33,2020-01-21 23:47:53,392,Quick access to global capital market status.
+225,175855485,Forked,sirnfs/OptionSuite,88125604,2021-02-18 12:47:26,2019-03-15 16:27:52,1653,Option and stock backtester / live trader
+226,181495888,Forked,pgaref/orderbook,176708998,2021-02-15 06:21:15,2019-04-15 13:44:27,1641,OrderBook Simulator with Limit and Iceberg functionality
+227,202935061,Forked,kmanley/orderbook,17766673,2021-02-21 00:16:46,2019-08-17 22:02:07,128,"A fast limit order book implementation in Python, inspired by voyager's winning 2011 QuantCup entry"
+228,177773339,Own,OrderBook-Tick-Data-Trading-Strategy,177773339,2021-02-26 21:38:36,2019-03-26 11:19:28,85923,
+229,173923255,Forked,aconstandinou/pairs-trading-equities,144221715,2021-02-03 06:10:48,2019-03-05 10:13:55,26,Equity Pairs Trading Model. PostgreSQL. Related to another repo on creating a DB
+230,218144916,Forked,wangy8989/Pairs-Trading-with-Machine-Learning,134501773,2021-02-26 21:56:26,2019-10-28 21:04:08,434,Pair Trading Strategy using Machine Learning written in Python
+231,269365145,Forked,KIC/pandas-ml-quant,245871651,2021-02-10 12:17:09,2020-06-04 13:19:46,148735,Master repository for the pandas-ml modules 
+232,310926881,Forked,twopirllc/pandas-ta,171511165,2021-02-26 21:24:14,2020-11-07 20:32:26,19671,Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 120+ Indicators
+233,174344299,Forked,rsheftel/pandas_market_calendars,75791177,2021-02-25 22:07:29,2019-03-07 12:57:43,303,Exchange calendars to use with pandas for trading applications
+234,175971700,Forked,femtotrader/pandas_talib,39177873,2021-02-25 03:34:09,2019-03-16 12:52:29,1430,A Python Pandas implementation of technical analysis indicators
+235,173185659,Forked,KieranLitschel/PredictingClosingPriceTomorrow,137504144,2021-02-12 23:16:51,2019-02-28 20:52:43,187408,"Predict the change in closing price from one trading day to the next into one of four bands for any stock using technical indicators and financial ratios as features. Uses MySQL database, some multiprocessing and some scrapping. Data is from AlphaVantage."
+236,173922843,Forked,cswaney/prickle,62751442,2021-01-24 05:37:39,2019-03-05 10:11:19,97,A Python toolkit for high-frequency trade research: collection of ultra-high-frequency market microstructure data from Nasdaq. Nasdaq HistoricalView-ITCH describes changes to Nasdaq limit order books at nanosecond precision
+237,270280558,Forked,rubenbriones/Probabilistic-Sharpe-Ratio,263372847,2021-02-21 12:35:30,2020-06-07 11:11:15,301,Probabilistic Sharpe Ratio example in Python (by Marcos López de Prado)
+238,174237514,Forked,kprestel/py-investment,71730165,2020-12-08 13:18:05,2019-03-06 23:37:29,1140,Extensible Algo-Trading Python Package. Big thing. Uses Arctic database. Many tech indicators
+239,175097362,Forked,gbeced/pyalgotrade,3644516,2021-02-26 14:40:58,2019-03-11 23:05:23,43558,Python Algorithmic Trading Library
+240,173628500,Forked,jessecooper/pyetrade,94362561,2021-02-21 02:55:20,2019-03-03 20:52:49,191,Python E-Trade API Wrapper
+241,231945116,Forked,quantopian/pyfolio,36670205,2021-02-26 20:00:13,2020-01-05 16:28:57,87956,Portfolio and risk analytics in Python
+242,175704970,Forked,akapur/pyiqfeed,52120555,2021-02-09 05:46:02,2019-03-14 21:47:39,358,Python LIbrary for reading DTN's IQFeed
+243,175896753,Forked,danielktaylor/PyLimitBook,3633486,2021-02-20 04:39:47,2019-03-15 22:01:45,8723,Python implementation of fast limit-order book.
+244,269431221,Forked,robertmartin8/PyPortfolioOpt,135300551,2021-02-26 08:52:17,2020-06-04 18:10:05,6860,"Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity"
+245,175878537,Forked,abbass2/pyqstrat,143200286,2021-02-26 14:19:55,2019-03-15 19:19:59,33319,"A fast, extensible, transparent python library for backtesting quantitative strategies."
+246,174307795,Forked,buttercrumbs/pyramid,126765908,2019-03-07 08:47:49,2019-03-07 08:55:40,2,C++ library for fast tick data aggregations and snapshots
+247,175893623,Forked,lukerosiak/pysec,9861504,2021-02-19 22:05:39,2019-03-15 21:29:43,219,"Parse XBRL 10-k filings from the SEC's EDGAR in Python. Django code that compiles a list of all SEC filings from EDGAR into SQL, allows you to download them at will, and parses 50+ key accounting terms from XBRL filings"
+248,176037939,Forked,camisatx/pySecMaster,40058792,2021-02-09 21:41:07,2019-03-17 00:06:06,507,An automated system to store and maintain financial data.
+249,178084893,Forked,ranaroussi/pystore,134993131,2021-02-21 15:09:53,2019-03-27 22:36:45,67,"Fast data store for Pandas time-series data. based on Arctic, albeit with a different back end store."
+250,175898489,Forked,danielktaylor/PyStrategies,64703220,2021-02-24 23:39:34,2019-03-15 22:21:32,12579,Framework for algorithmic trading strategy development. It seems that the core is in Java
+251,175710941,Forked,robcarver17/pysystemtrade,46975254,2021-02-26 14:04:20,2019-03-14 22:42:31,118479,Systematic Trading in python
+252,193280671,Forked,robcarver17/pysystemtrade_examples,116162874,2021-02-21 03:42:31,2019-06-22 21:25:16,195,Examples using pysystemtrade for my blog qoppac.blogspot.com
+253,175097778,Forked,alexcwyu/python-trading,50930201,2019-10-07 00:38:16,2019-03-11 23:09:24,3058,python-trading
+254,315152021,Forked,mcatan01/python-web-scraping-LSE-fundamentals,214557592,2019-10-12 07:25:36,2020-11-22 23:19:13,53,Data collection of companies fundamentals from London Stock Exchange
+255,137537072,Own,PythonLearn,137537072,2018-09-26 15:38:21,2018-06-15 22:31:34,6,learning Python
+256,244774834,Forked,Surbeivol/PythonMatchingEngine,187019894,2021-02-26 21:29:38,2020-03-04 00:51:44,3221,High performance trading Matching Engine / Market Simulator using Level 3 Market Data for realistic simulation of High Frequency Trading Strategies
+257,197401560,Own,Python_Trading_Snippets,197401560,2021-02-21 12:44:35,2019-07-17 14:05:32,48255,Collections of snippets for trading I find interesting
+258,173722353,Forked,rleonard21/PyTradier,94717795,2021-02-05 00:45:38,2019-03-04 10:18:45,332,A Python library for interfacing with Tradier.com's trading API. 
+259,173848437,Forked,chrism2671/PyTrendFollow,122750976,2021-02-20 20:11:54,2019-03-05 01:15:33,3653,"futures trend following, Quandl & Interactive Brokers, MySQL and HDF5, multithreading"
+260,175716692,Forked,mhallsmoore/qsforex,29928251,2021-02-26 19:27:05,2019-03-14 23:44:27,382,QuantStart Forex Backtesting and Live Trading
+261,173614131,Forked,mhallsmoore/qstrader,47397646,2021-02-26 14:37:52,2019-03-03 18:32:30,973,mhallsmoore QuantStart.com - Advanced Trading Infrastructure
+262,173191910,Forked,ranaroussi/qtpylib,66001846,2021-02-26 15:59:57,2019-02-28 21:39:59,39390,"QTPyLib, Event-driven algorithmic trading library written in Python, that supports backtesting, as well as paper and live trading via Interactive Brokers"
+263,176373311,Forked,quandl/quandl-python,8986011,2021-02-26 13:11:42,2019-03-18 21:35:02,168,package can be used to interact with the latest version of the Quandl RESTful API
+264,206114337,Forked,teddykoker/quant,181390439,2021-02-24 05:05:40,2019-09-03 15:47:11,55149,Quantitative Analysis Research see more at https://teddykoker.com
+265,175855044,Forked,je-suis-tm/quant-trading,127918080,2021-02-26 21:49:54,2019-03-15 16:24:59,10334,"Python quantitative trading strategies including MACD, Pair Trading, Heikin-Ashi, London Breakout, Awesome, Dual Thrust, Parabolic SAR, Bollinger Bands, RSI, Pattern Recognition, CTA, Monte Carlo"
+266,210946654,Forked,QUANTAXIS/QUANTAXIS,54972769,2021-02-26 17:06:13,2019-09-25 21:49:01,131244,QUANTAXIS 支持任务调度 分布式部署的 股票/期货/自定义市场 数据/回测/模拟/交易/可视化 纯本地一站式量化解决方案
+267,211717042,Forked,jsisaacs/QuantStrategies,105237742,2020-11-26 23:34:43,2019-09-29 19:45:06,16108,💸 A long-short equity quantitative trading strategy (sentiment-based)
+268,60622870,Own,R-Trading,60622870,2020-01-11 22:09:27,2016-06-07 15:05:38,212,R codes for different quant trading purposes
+269,193501332,Forked,govwiki/rating_history,111855930,2021-01-23 06:27:24,2019-06-24 12:30:24,26,Download and parse credit rating history files that US rating agencies generate each month in accordance with SEC Rule 17g-7
+270,273726804,Forked,qks1lver/redtide,145334446,2021-02-09 13:19:04,2020-06-20 14:46:16,43,"For compiling financial data and stock prices, Robinhood API, tradebot... etc"
+271,215798464,Forked,finsyn/regsho-js,173261540,2019-03-01 13:33:55,2019-10-17 13:25:11,4,Get reported shorted volume for US stocks in accordance with https://www.investopedia.com/terms/r/regsho.asp
+272,173836055,Forked,stjordanis/research-1,173566627,2020-08-10 07:18:29,2019-03-04 23:08:51,15241,Contains all the Jupyter Notebooks used in our research
+273,180363172,Forked,QuantConnect/Research,107166638,2021-02-26 02:58:38,2019-04-09 12:35:54,2632,Jupyter notebook tutorials for the QuantBook Lean system project.
+274,241862051,Forked,quantopian/research_public,31363009,2021-02-25 19:19:34,2020-02-20 11:00:41,136262,Quantitative research and educational materials
+275,196738726,Forked,fxcm/RestAPI,114137937,2021-02-24 12:20:18,2019-07-13 15:46:15,3046,"REST API is a web-based API using a Websocket connection. Developers and investors can create custom trading applications, integrate into our platform, back test strategies and build robot trading."
+276,235463823,Forked,mayankmahavar111/reuters,108182621,2017-10-24 20:55:42,2020-01-21 23:47:03,63329,
+277,180816644,Forked,mike0sv/Reuters-full-data-set,67618250,2020-12-11 09:04:51,2019-04-11 15:03:27,455754,"Full dataset of Reuters composed of 8,551,441 news titles, links and timestamps (Jan 2007 - Aug 2016)."
+278,213471482,Forked,hootnot/saxo_openapi,168889299,2021-02-25 10:27:00,2019-10-07 19:42:35,309,The saxo_openapi package provides easy access to SAXO OpenAPI. Checkout the Jupyter notebooks covering different aspects of the API.
+279,193376079,Forked,tg12/Scripting_IG_API,158402063,2020-10-21 17:23:19,2019-06-23 17:21:50,41,Some code examples using the IG Index API
+280,327754698,Forked,sec-edgar/sec-edgar,14759456,2021-02-26 03:45:31,2021-01-08 00:11:20,13704," Download all companies  periodic reports, filings and forms from EDGAR database."
+281,195801976,Forked,altova/sec-edgar-tools,37188974,2020-06-11 13:54:34,2019-07-08 11:52:05,1345,EDGAR Filer Manual (Volume II) EDGAR Filing (Version 31) for RaptorXML+XBRL Server
+282,193356444,Forked,thedatasleuth/SEC-Filings,139618520,2019-08-24 12:55:28,2019-06-23 14:15:20,678,"Predictions of SEC Indictments based on Filings Types, Corporate Info"
+283,278876017,Forked,jay-johnson/sec-rss-read-and-convert-to-json,21874897,2018-09-17 19:17:08,2020-07-11 14:18:53,108,"Using Python, read the SEC RSS Feed and convert to JSON dictionary"
+284,195129827,Forked,altova/sec-xbrl,24270342,2021-02-21 11:57:34,2019-07-03 21:41:18,165,XBRL.US Webinar: How to download and process SEC XBRL Data Directly from EDGAR
+285,175893515,Forked,altova/SECDB,45048344,2021-01-20 18:00:41,2019-03-15 21:28:40,824,Building a financial reporting SQLite database from the SEC's EDGAR XBRL filings. SEC maintains RSS feeds for each month with the filings submitted during that month.
+286,174621858,Forked,VermeirJellen/Securities_Master_Database,44744303,2021-01-07 20:12:52,2019-03-08 22:54:13,267,Project includes scripts to set up a securities master database with stock and ETF timeseries data
+287,269325574,Forked,neelsomani/senator-filings,262264336,2021-02-23 16:19:42,2020-06-04 10:09:50,16002,Scrape public filings of the buy + sell orders of U.S. senators and calculate their returns
+288,176040069,Forked,WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction,74382727,2021-02-20 23:05:29,2019-03-17 00:40:09,390106,Use NLP to predict stock price movement associated with news
+289,173715178,Forked,rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy,63839029,2021-02-26 21:44:32,2019-03-04 09:33:03,87658,Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
+290,180615827,Forked,RyanElliott10/SqueezePredictor,116054504,2021-02-13 05:44:49,2019-04-10 15:57:13,9688,A python script that predicts a stock's susceptibility to a short squeeze.
+291,235777110,Forked,jaycode/short_sale_volume,232751827,2021-02-21 19:29:28,2020-01-23 11:01:59,821,Effect of short interest to stock pricing. Uses data from Quandl + QuoteMedia.
+292,234490403,Forked,dorlavie/skyscanner_scaper,113197255,2019-05-06 02:14:42,2020-01-17 06:59:11,25,Scraper of the site skyscanner. Help tracking cheap flights
+293,193039163,Forked,gnewby/statarb,167196590,2020-08-25 15:56:18,2019-06-21 05:55:11,820,
+294,193487214,Forked,wywongbd/pairstrade-fyp-2019,147790045,2021-02-03 01:40:39,2019-06-24 10:49:58,30697,"We tested 3 approaches for Pair Trading: distance, cointegration and reinforcement learning approach (proposed)."
+295,177172429,Forked,AlgoTraders/stock-analysis-engine,149031098,2021-02-26 15:27:39,2019-03-22 16:14:15,8143,"Backtest 1000s of minute-by-minute trading algorithms for training AI with automated pricing data from: IEX, Tradier and FinViz. Datasets and trading performance automatically published to S3 for building AI training datasets for teaching DNNs how to trade. Runs on Kubernetes and docker-compose. >150 million trading history rows generated from +5000 algorithms. Heads up: Yahoo's Finance API was disabled on 2019-01-03 https://developer.yahoo.com/yql/"
+296,193381833,Forked,huseinzol05/Stock-Prediction-Models,114629751,2021-02-26 19:40:40,2019-06-23 18:24:27,45964,Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
+297,175881206,Forked,vgoklani/stock-split-calendar,114968456,2020-11-19 05:56:22,2019-03-15 19:41:57,1349,Python 3 interface to www.investing.com/stock-split-calendar/
+298,196352445,Forked,philipperemy/stock-volatility-google-trends,104981131,2021-01-08 06:48:49,2019-07-11 08:26:50,1346,Deep Learning Stock Volatility with Google Domestic Trends: https://arxiv.org/pdf/1512.04916.pdf
+299,232669305,Forked,kh-kim/stock2vec,70122856,2021-02-22 10:57:12,2020-01-08 22:05:39,11283,Embedding stocks to vectors based on the price history
+300,211724296,Own,StockDataProcessing-dev,211724296,2020-05-28 01:36:48,2019-09-29 20:48:12,595,Work with Oanda
+301,194275578,Forked,borisbanushev/stockpredictionai,164816947,2021-02-26 13:00:57,2019-06-28 13:07:47,1923,"       In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later."
+302,192808230,Forked,shirosaidev/stocksight,104699346,2021-02-26 19:01:05,2019-06-19 21:42:27,459,"Stock analyzer and predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis"
+303,195053627,Forked,anfederico/stocktalk,66172698,2021-02-24 20:24:54,2019-07-03 12:56:59,1276,Data collection tool for social media analytics
+304,205255196,Own,Stock_Predict_ConvNet,205255196,2019-08-29 22:02:53,2019-08-29 21:43:45,2415,Stock Prediction using ConvNet Headline Analysis
+305,207521271,Forked,jalajthanaki/stock_price_prediction,113883960,2021-01-29 09:28:38,2019-09-10 09:43:34,15283,Getting and cleaning NYtimes news articles headline
+306,321185553,Forked,nickhuangxinyu/strategy,287432684,2021-01-18 11:27:05,2020-12-13 23:53:42,3108,Strategy source code for hft
+307,329763255,Forked,zuongthaotn/strategy,313571755,2021-01-08 03:19:59,2021-01-14 23:57:12,19,
+308,192802208,Forked,TDAmeritrade/stumpy,184809315,2021-02-26 13:38:04,2019-06-19 20:47:02,31165,STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks
+309,176365347,Forked,gsitgithub/SubMicroTrading,40910483,2021-02-21 05:01:05,2019-03-18 20:36:28,3115,"Ultra Low Latency Trading Framework (Fix Engine, OMS, FastFix, ETI, Algo Container)"
+310,196392911,Forked,Richard-Rose/SubMicroTrading,79359287,2021-01-24 09:44:20,2019-07-11 12:45:46,1804,"Ultra Low Latency Trading Framework (OMS, Trading+MarketData Adapters, Algo Container etc)"
+311,304724233,Forked,tradytics/surpriver,291425727,2021-02-26 16:10:37,2020-10-16 19:46:22,2064,Find big moving stocks before they move using machine learning and anomaly detection
+312,269309320,Forked,BlackArbsCEO/synthetic_time_series,174583023,2021-02-23 01:16:17,2020-06-04 08:58:18,32757,
+313,209934703,Forked,robcarver17/systematictradingexamples,43414405,2021-02-09 05:29:20,2019-09-21 06:11:34,48619,Examples of code related to book www.systematictrading.org and blog qoppac.blogspot.com
+314,175892583,Forked,mrjbq7/ta-lib,3810626,2021-02-26 08:45:23,2019-03-15 21:19:38,10051,Python wrapper for TA-Lib (http://ta-lib.org/).
+315,278580635,Forked,cuemacro/tcapy,142280236,2021-02-18 00:35:58,2020-07-10 08:28:15,47368,Open source TCA (transaction cost analysis) Python library for FX spot
+316,207829574,Forked,google/tf-quant-finance,198669252,2021-02-26 20:28:56,2019-09-11 14:15:08,6455,High-performance TensorFlow library for quantitative finance.
+317,321185235,Forked,brndnmtthws/thetagang,318309101,2021-02-26 16:10:51,2020-12-13 23:51:19,275,ThetaGang is an IBKR bot for collecting money
+318,168684840,Forked,ewnike/Tick-Trade-Data-merge.xts,54351495,2016-03-28 20:48:22,2019-02-01 11:00:51,32,R Code: How to merge xts or select tick data that matches trade time stamp
+319,174311529,Forked,squideyes/TickData,100280234,2019-03-07 08:47:46,2019-03-07 09:17:32,613,"Not Python, downloads ASCII tick data from HistData.com then converts the data into both CSV"
+320,174327402,Forked,meticulousCraftman/TickerStore,161028621,2021-02-16 04:29:22,2019-03-07 10:58:48,57,Historical data of financial instruments from Upstox and NSE
+321,174239026,Forked,MagicEthan/tick_data_clean,115300694,2019-03-06 23:17:50,2019-03-06 23:54:38,20047,cleaning tick data for CN comm futures
+322,196889052,Forked,Cholga/tlcopy,27826064,2014-12-10 15:49:51,2019-07-14 22:22:52,32512,unofficial mirror
+323,174445086,Forked,javifalces/tradeasystems_connector,163653341,2021-02-07 00:32:11,2019-03-08 01:05:29,2834,Layer to connect with market providers for data + trading from different algorithmic trading providers / cryptocurrencurrencies / forex / equities to local file database 
+324,330136699,Forked,pwmorrison/trading,156033581,2020-07-17 08:24:20,2021-01-16 10:26:25,2474,
+325,331581643,Forked,jgerardsimcock/trading,65100969,2021-01-21 08:42:30,2021-01-21 09:44:05,60442,Notebooks and practice for Machine Learning in Finance and Trading
+326,303418576,Forked,phl3x0r/trading-evolved,257506423,2020-04-21 06:59:26,2020-10-12 14:31:56,4967,
+327,174422785,Forked,sjev/trading-with-python,32544882,2021-02-25 14:30:51,2019-03-07 21:27:05,557,development of quantitative trading strategies. Uses IB
+328,238922431,Forked,paurichardson/trading-with-python,40640796,2015-08-13 05:37:28,2020-02-07 12:56:35,332,Automatically exported from code.google.com/p/trading-with-python
+329,173618391,Forked,ilcardella/TradingBot,152151480,2021-02-25 07:06:48,2019-03-03 19:11:53,632,Autonomous stocks trading script via IG REST API and AlphaVantage
+330,173849996,Forked,arun-mansa/tradingbot,114240792,2021-02-13 13:32:44,2019-03-05 01:28:54,3653,Automatically buy option from iqoption based on specified patterns
+331,174423412,Forked,suketm/Tradingibpy,130036993,2020-02-03 08:58:35,2019-03-07 21:32:18,45,"Build, back-test and run your strategy, using ibpy."
+332,173630055,Own,tradingOANDA,173630055,2019-04-19 10:56:21,2019-03-03 21:07:49,7639,Database and Oanda
+333,258765664,Forked,vivekvision/TradingStrategy,229403407,2020-06-03 02:20:09,2020-04-25 12:04:50,463,Final Trading Model
+334,175854198,Forked,quantopian/trading_calendars,137123375,2021-02-25 19:44:52,2019-03-15 16:19:57,1857,Calendars for various securities exchanges.
+335,197711627,Forked,michalbrauner/trading_platform,152762886,2021-02-15 20:28:20,2019-07-19 06:03:58,1270,"Tool for developing, testing and trading strategies."
+336,194073721,Own,transcripts-risk,194073721,2020-12-28 05:51:19,2019-06-27 10:20:58,173,"forecast stock return volatility for the trading day immediately following an earnings call. The inputs are pieces of text, in particular earnings transcripts. The outputs are the labels +1 or -1 for volatility either going up or down after the call. The Machine Learning classifiers used here were Support Vector Machines, Neural Networks, Random Forests, and XGBoost. "
+337,193499500,Forked,jerryxyx/TreasuryFutureTrading,138219396,2021-01-24 07:49:19,2019-06-24 12:18:30,18608,A statistical arbitrage strategy on treasury futures using mean-reversion property and meanwhile insensitive to the yield change
+338,199860221,Own,Triangle_FX_Arbitr_Oanda_Gmail,199860221,2019-07-31 13:23:20,2019-07-31 13:19:53,55,FX Triangle arbitrage with Oanda plus sending alerts to gmail
+339,180112499,Forked,webradio/TrueFX-by-cUrl,115441676,2017-12-26 17:29:29,2019-04-08 09:12:51,14,Downloads Forex tick history from TrueFX.com with cUrl. A Windows batch script.
+340,168534680,Forked,cjwebb/truefx-data-urls,23343218,2017-06-29 12:16:51,2019-01-31 14:03:24,144,Generate URLs to download forex tick data from TrueFX
+341,173713399,Forked,webradio/TrueFX-to-nTickCSV,72984035,2019-03-04 08:50:08,2019-03-04 09:22:41,2,"Convert TrueFX.com forex tick data to n-tick OHLC CSV format, to check if creation of n-tick charts for Bob Volman's FPAS method is possible."
+342,168662192,Forked,webradio/TrueFX-to-Zorro,67514161,2017-06-03 20:41:37,2019-02-01 07:55:42,38,Convert TrueFX.com tick data to Zorro-Trader.com .t6 bar format
+343,175899880,Forked,maxbbraun/trump2cash,79692191,2021-02-26 09:50:24,2019-03-15 22:37:28,511,A stock trading bot powered by Trump tweets
+344,180614868,Forked,vyq/turtle-trading,90435744,2021-02-17 02:20:56,2019-04-10 15:51:47,596,Quantopian. Profit using trend trading: Exit on price hitting trailing stop of 2 times average true range (Get 22 daily bars for ATR). Process data every minute. Trading calendar: US Futures.
+345,327444031,Forked,Auquan/Tutorials,79641573,2021-02-26 04:15:14,2021-01-06 22:32:01,22024,Ipython notebooks for math and finance tutorials
+346,195829129,Forked,WayneDW/two_sigma_financial_modeling,77850337,2020-03-21 10:08:01,2019-07-08 14:28:48,75,Kaggle Competition
+347,175716443,Forked,erdewit/tws_async,81918990,2021-02-05 23:11:51,2019-03-14 23:41:32,293,Make the Python IB API from Interactive Brokers run inside an event loop
+348,176261615,Forked,radocisar/TWS_Historical_Data_Download,149175367,2019-03-18 17:55:55,2019-03-18 10:44:13,577,TWS Historical Bar and Ticks Download
+349,174415750,Forked,rstms/txTrader,32757183,2020-12-17 20:17:02,2019-03-07 20:32:11,520,Securities Trading API controller using Twisted (Interactive Brokers TWS API)
+350,176299521,Forked,kmiklas/usain,65053239,2019-02-15 12:41:16,2019-03-18 14:07:23,117,A Low-Latency Market Data Tick Generation Program
+351,258489224,Forked,polakowo/vectorbt,110684325,2021-02-26 13:11:34,2020-04-24 11:09:43,170578,Python library for backtesting and analyzing trading strategies at scale
+352,180366045,Forked,jasonstrimpel/volatility-trading,20841908,2021-02-24 13:08:28,2019-04-09 12:52:11,8131,A complete set of volatility estimators based on Euan Sinclair's Volatility Trading 
+353,202730083,Own,VPIN_Volume-Synchronized_PIN,202730083,2019-08-16 13:15:47,2019-08-16 13:13:05,23759,different optin to implement VPIN
+354,218641888,Forked,cvxgrp/vwap_opt_exec,175298291,2021-01-05 12:40:46,2019-10-30 23:00:16,842,Volume Weighted Average Price Optimal Execution
+355,250123352,Forked,IBM/watson-stock-market-predictor,169122824,2021-02-24 18:57:01,2020-03-26 00:31:20,22428,"A IBM Developer code pattern for Watson Studio: forecast the stock market with Python Notebooks, SPSS Modeler, Data Refinery, and other Watson Studio tools."
+356,206426065,Forked,je-suis-tm/web-scraping,128013461,2021-02-23 10:30:39,2019-09-04 22:28:08,1386,"Python web scrapers on commodity future exchanges including CME, LME, SHFE and influential media websites including BBC, Wall Street Journal, Al Jazeera, Reuters, Financial Times, Bloomberg, CNN, Fortune, The Economist"
+357,232998689,Forked,VincentTatan/Web-Scraping,192036695,2021-02-15 23:26:26,2020-01-10 08:14:40,3751,Web Scraping with Beautiful Soup and Selenium
+358,193787438,Forked,lin882/WebAnalyticsProject,115785490,2020-12-17 08:24:20,2019-06-25 21:44:35,1200,Python - We analyzed the correlation between mutual fund investment decision and earning call transcripts.
+359,315150881,Forked,marcocatania/webParsing_stockSelector,122427503,2018-02-22 03:47:11,2020-11-22 23:10:42,2,LSE website parser
+360,194279933,Forked,MMquant/Websocket-orderbook-replication,90985640,2020-11-08 20:22:06,2019-06-28 13:39:19,20,Example python script replicating remote orderbook from websocket stream
+361,181683595,Forked,thomsonreuters/wikidata_permid_linking,114829112,2019-07-26 11:36:10,2019-04-16 12:19:40,33,
+362,195130600,Forked,peopledoc/workalendar,14559169,2021-02-26 10:15:42,2019-07-03 21:50:25,972,Worldwide holidays and workdays computational toolkit.
+363,285930100,Forked,akoganti/World-Bond-Stock-Portfolio,254706913,2020-12-25 05:44:08,2020-08-07 22:17:19,723,Creating the World Bond Stock Portfolio using Vanguard ETFs.
+364,230984570,Forked,Python-para-Trading/wrapper-backtrader,177462291,2020-10-29 00:08:27,2019-12-30 21:51:17,16,Trading Starter Kit on Backtrader
+365,339655221,Forked,ranaroussi/yfinance,91948540,2021-02-26 21:21:58,2021-02-17 08:22:28,675,Yahoo! Finance market data downloader (+faster Pandas Datareader)
+366,200549827,Forked,luphord/yield_curve_dynamics,176093386,2021-01-24 07:00:25,2019-08-04 23:00:41,13257,A cursory look at the dynamics of zero coupon bond yield curves.
+367,194933972,Forked,evdubs/zacks-estimates-financial-statements,112563816,2020-12-08 22:43:08,2019-07-02 20:57:39,55,ETL for Zacks Estimates and Financial Statements
+368,193379573,Forked,jbn/ZigZag,17089200,2021-02-22 14:29:43,2019-06-23 17:59:49,104,Python library for identifying the peaks and valleys of a time series.
+369,241852131,Forked,quantopian/zipline,6297520,2021-02-26 21:09:05,2020-02-20 10:10:36,159315,"Zipline, a Pythonic Algorithmic Trading Library"
+370,180359074,Forked,florentchandelier/zipline2quantopian,29298286,2021-01-02 09:46:41,2019-04-09 12:12:07,3140,generating quantopian scripts from multiple files in zipline
+371,210466259,Forked,jrathgeber/Zorro,120202196,2020-12-15 14:54:28,2019-09-23 22:51:33,259,Repo for my Zorro scripts and other bits
+372,211732797,Forked,Mithrandir7777/ZorroRandomStrategyBenchmark,175530620,2020-01-29 21:14:31,2019-09-29 22:12:47,119,Repository to develop a benchmark to test a strategy against several random strategies
+373,252295439,Own,Zorro_scripts,252295439,2021-02-17 21:26:10,2020-04-01 21:56:40,165,Collection of scripts for Zorro Trading
+374,168684574,Forked,AndrewAMD/zorro_snippets,132346114,2021-02-17 21:23:41,2019-02-01 10:58:22,1419,These are some random snippets I may or may not be using with the Zorro Trading Automaton
+375,262424540,Star,awesome-ml-courses,262424540,2021-02-26 19:16:13,2020-05-08 20:41:59,31,Awesome free machine learning and AI courses with video lectures.
+376,254832799,Star,hackingtool,254832799,2021-02-26 20:51:27,2020-04-11 09:21:31,1212,ALL IN ONE Hacking Tool For Hackers
+377,47018239,Star,awesome-interview-questions,47018239,2021-02-26 21:50:54,2015-11-28 09:48:17,460,:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
+378,22781617,Star,Ten-lines-or-less,22781617,2021-02-26 12:28:51,2014-08-09 07:39:34,142,Python scripts that are short but useful or interesting
+379,101282695,Star,dbg-pds,101282695,2021-02-11 23:15:33,2017-08-24 10:22:58,1521,Deutsche Boerse's Financial Trading Public Data Set
+380,181903304,Star,Deep-learning-in-cloud,181903304,2021-02-26 18:38:04,2019-04-17 13:59:48,92,List of Deep Learning Cloud Providers
+381,144863525,Star,awesome-production-machine-learning,144863525,2021-02-26 21:28:57,2018-08-15 14:28:41,1639,"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning"
+382,127584791,Star,pingouin,127584791,2021-02-25 17:35:19,2018-04-01 01:10:22,13749,Statistical package in Python based on Pandas
+383,144119757,Star,cracking-the-data-science-interview,144119757,2021-02-25 19:30:46,2018-08-09 07:57:57,246883,"A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep"
+384,214502225,Star,CFDS,214502225,2021-02-18 06:48:33,2019-10-11 18:13:38,46128,"A series of interactive labs we prepared for the Chartered Financial Data Scientist Certification. The content of the series is based on Python, IPython Notebook, and PyTorch."
+385,305815199,Star,CFDS-Notebooks,305815199,2021-02-03 12:44:32,2020-10-20 19:38:53,38197,"A series of interactive labs we prepared for the Chartered Financial Data Scientist Certification. The content of the series is based on Python, IPython Notebook, and PyTorch."
+386,299322306,Star,alpaca_zorro_plugin,299322306,2021-02-24 19:25:46,2020-09-28 13:46:04,421,A Zorro Plugin for Alpaca Trade API.
+387,291703561,Star,autoscraper,291703561,2021-02-26 20:42:28,2020-08-31 12:02:19,106,"A Smart, Automatic, Fast and Lightweight Web Scraper for Python"
+388,292293462,Star,data-engineer-roadmap,292293462,2021-02-26 21:29:10,2020-09-02 13:38:54,3599,Roadmap to becoming a data engineer in 2021
+389,277168957,Star,applied-ml,277168957,2021-02-26 22:13:49,2020-07-04 18:57:47,479,📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+390,200124549,Star,pods,200124549,2020-12-14 20:51:20,2019-08-01 22:02:21,46077,Principles of Data Science book
+391,116930522,Star,applied-machine-learning,116930522,2021-02-14 07:28:37,2018-01-10 08:32:49,20633,A step-by-step guide to get started with Applied Machine Learning
+392,253538404,Star,machine-learning-notes,253538404,2021-02-16 16:47:20,2020-04-06 15:26:04,54234,My personal notes on Machine Learning 
+393,143892259,Star,Stanford_Machine_Learning_Python_Implementation,143892259,2020-06-20 10:27:45,2018-08-07 15:21:12,26891,"Solutions and walkthroughs to the subjects taught in the popular Stanford Machine Learning course, taught by Andrew Ng. All solutions are implemented in Python from scratch, with minimal use of external libraries."
+394,252216000,Star,data-analysis,252216000,2020-12-04 15:08:15,2020-04-01 15:34:58,10278,"Data analysis and research, including custom Jupyter notebooks and Kaggle problems."
+395,156401841,Star,sktime,156401841,2021-02-26 22:01:30,2018-11-06 15:08:24,36436,A unified framework for machine learning with time series
+396,132754148,Star,machine-learning-for-trading,132754148,2021-02-26 20:46:53,2018-05-09 12:33:08,605380,"Code and resources for Machine Learning for Algorithmic Trading, 2nd edition."
+397,261614793,Star,r-quant-recipes,261614793,2021-02-11 11:32:27,2020-05-06 00:36:51,98692,
+398,78485664,Star,Deep-Learning-Experiments,78485664,2021-02-25 13:41:22,2017-01-10 01:31:13,164245,Notes and experiments to understand deep learning concepts
+399,20266254,Star,optunity,20266254,2021-01-25 21:43:09,2014-05-28 17:29:11,3778,optimization routines for hyperparameter tuning
+400,186872119,Star,gluon-ts,186872119,2021-02-26 15:31:45,2019-05-15 17:17:29,3568,Probabilistic time series modeling in Python
+401,24528468,Star,vaex,24528468,2021-02-26 20:09:02,2014-09-27 09:44:42,132831," Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀"
+402,152891263,Star,pdf-crawler,152891263,2021-02-22 15:04:14,2018-10-13 16:27:08,41,SimFin's open source PDF crawler
+403,210851653,Star,simfin,210851653,2021-02-26 14:11:08,2019-09-25 13:25:42,605,Simple financial data for Python
+404,108911921,Star,api_key_detector,108911921,2020-12-09 10:26:32,2017-10-30 21:45:49,10991,"Neural Network Based, Automatic API Key Detector"
+405,116672811,Star,30-seconds-of-python,116672811,2021-02-26 10:30:12,2018-01-08 12:17:16,68114,Short Python code snippets for all your development needs
+406,155262834,Star,Nasdaqtrader.com-LUDP-data-analysis,155262834,2021-01-25 01:02:46,2018-10-29 18:41:22,821,ludp trading halts
+407,247438269,Star,ZorroCode,247438269,2020-05-02 15:05:45,2020-03-15 09:44:07,14,just code repo for Zorro
+408,79510167,Star,pipenv,79510167,2021-02-26 16:18:22,2017-01-20 00:44:02,242385, Python Development Workflow for Humans.
+409,114063532,Star,120-Data-Science-Interview-Questions,114063532,2021-02-24 22:45:06,2017-12-13 02:29:57,64,Answers to 120 commonly asked data science interview questions.
+410,14802245,Star,python-Levenshtein,14802245,2021-02-25 08:38:41,2013-11-29 13:40:48,153,The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
+411,224234024,Star,selenium-python-helium,224234024,2021-02-26 13:43:21,2019-11-26 16:12:28,21599,Selenium-python but lighter: Helium is the best Python library for web automation.
+412,241484116,Star,xaib,241484116,2020-03-10 08:09:43,2020-02-18 22:47:30,331,XAIB - Explainable AI in Business
+413,72507105,Star,awesome-information-retrieval,72507105,2021-02-22 01:42:24,2016-11-01 05:37:02,34,A curated list of awesome information retrieval resources
+414,21911597,Star,awesome-algorithms,21911597,2021-02-26 20:43:27,2014-07-16 18:10:01,194,A curated list of awesome places to learn and/or practice algorithms.
+415,76047045,Star,Tensorflow-Programs-and-Tutorials,76047045,2021-02-21 15:51:06,2016-12-09 15:30:47,360364,"Implementations of CNNs, RNNs, GANs, etc"
+416,114747226,Star,faceswap,114747226,2021-02-26 19:18:59,2017-12-19 09:44:13,199383,Deepfakes Software For All
+417,157113010,Star,awesome-deepfakes,157113010,2021-02-26 02:17:17,2018-11-11 19:24:00,10,Everything Deepfakes
+418,177655336,Star,Data-Science-Toolbox,177655336,2021-02-24 19:27:57,2019-03-25 19:58:55,157445,"Examples and illustration of basic statistic concepts, probability distribution, Monte Carlo simulation, preprocessing and visualization techniques, and statistical testing."
+419,21660887,Star,list-of-python-api-wrappers,21660887,2021-02-24 21:13:30,2014-07-09 16:56:02,321,List of Python API Wrappers and Libraries
+420,85498864,Star,Awesome-Hacking-Tools,85498864,2021-02-25 23:25:55,2017-03-19 18:26:27,418,Awesome Hacking Tools
+421,9294498,Star,python-cookbook,9294498,2021-02-24 20:47:12,2013-04-08 11:01:19,2062,"Code samples from the ""Python Cookbook, 3rd Edition"", published by O'Reilly & Associates, May, 2013. "
+422,128565366,Star,bypass-paywalls-firefox,128565366,2021-02-25 22:54:39,2018-04-07 20:25:43,905,Bypass Paywalls for Firefox
+423,128565937,Star,bypass-paywalls-chrome,128565937,2021-02-26 20:57:11,2018-04-07 20:33:19,1277,Bypass Paywalls web browser extension for Chrome and Firefox.
+424,112038315,Star,anti-paywall,112038315,2021-02-16 16:43:55,2017-11-25 22:20:23,67,A browser extension that maximizes the chances of bypassing paywalls
+425,194306461,Star,DeepNude-an-Image-to-Image-technology,194306461,2021-02-26 15:41:46,2019-06-28 16:53:29,27033,"DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用生成对抗网络（GAN,Generative Adversarial Network）图像生成的理论与实践研究。"
+426,28759038,Star,notebooky,28759038,2020-02-07 10:43:34,2015-01-04 00:53:51,893,Random ipython notebook scripts
+427,50794193,Star,PyDataset,50794193,2021-02-26 14:16:53,2016-01-31 20:43:28,15673,Instant access to many datasets in Python.
+428,80990461,Star,ML-From-Scratch,80990461,2021-02-26 16:50:22,2017-02-05 12:11:23,553,Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+429,226944344,Star,metis_project_5_airbnb_pricing,226944344,2021-01-08 21:40:18,2019-12-09 18:54:31,5023,Project 5 during the Metis Data Science Program - Pricing Tool for Airbnb Hosts
+430,73213095,Star,Rcrawler,73213095,2021-02-22 23:57:36,2016-11-08 18:05:05,611,An R web crawler and scraper
+431,115797306,Star,ebay-daily-deals-scraper,115797306,2020-12-21 14:16:02,2017-12-30 13:03:49,4,Web scraper for eBay's Global Daily Deals using Python Scrapy.
+432,32484381,Star,free-for-dev,32484381,2021-02-26 22:02:05,2015-03-18 21:06:26,3741,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+433,101296881,Star,every-programmer-should-know,101296881,2021-02-26 21:42:58,2017-08-24 13:18:26,211,A collection of (mostly) technical things every software developer should know about
+434,70748298,Star,open-source-ideas,70748298,2021-02-26 16:46:39,2016-10-12 22:53:20,113,💡Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
+435,181561553,Star,aws-serverless-airline-booking,181561553,2021-02-25 20:24:28,2019-04-15 20:34:33,7613,"Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019."
+436,51719178,Star,statistically-likely-usernames,51719178,2021-02-25 07:15:34,2016-02-14 23:24:39,22583,Wordlists for creating statistically likely username lists for use in password attacks and security testing
+437,81964776,Star,dztools,81964776,2020-01-22 12:35:55,2017-02-14 16:22:41,1240,
+438,36760040,Star,duplicate-image-finder,36760040,2020-12-13 16:34:56,2015-06-02 20:31:20,22,Identifies similar pictures on your local computer
+439,77907025,Star,skyscrapper,77907025,2020-01-12 16:23:22,2017-01-03 10:29:24,382,
+440,195688120,Star,advanced-deep-learning-with-python,195688120,2020-11-21 10:35:31,2019-07-07 19:14:57,24157,Advanced Deep Learning with Python
+441,68240804,Star,automated_trading_with_R,68240804,2021-02-11 17:15:28,2016-09-14 20:29:48,67,"Source code and community enhancements for Automated Trading with R by Christopher Conlan, Springer/Apress Oct. 2016"
+442,128570698,Star,swifter,128570698,2021-02-25 14:26:19,2018-04-07 21:37:19,1594,A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner
+443,157322050,Star,Airbnb-Dynamic-Pricing-Optimization,157322050,2021-02-22 17:09:42,2018-11-13 04:51:47,23841,"[BA project] Dynamic Pricing Optimization for Airbnb listing to optimize yearly profit for host. Use Clustering for competitive analysis, kNN regression for demand forecasting, and find dynamic optimal price with Optimization model."
+444,137097053,Star,fix-vocabulary,137097053,2020-11-27 08:47:41,2018-06-12 16:07:27,129,A controlled vocabulary of FIX Protocol business terms
+445,163444103,Star,blog,163444103,2020-10-21 12:07:40,2018-12-28 19:44:22,671,Code snippets that I have a blog entry for at vitaltrades.com
+446,178904285,Star,fin-pyth-examples,178904285,2019-12-13 13:50:28,2019-04-01 16:33:05,13022,
+447,189331652,Star,EarningsCall_Dataset,189331652,2021-02-22 17:09:46,2019-05-30 02:30:24,15061,The earnings conference call dataset of S&P 500 companies
+448,83999700,Star,Best-websites-a-programmer-should-visit,83999700,2021-02-26 21:53:43,2017-03-05 20:25:17,1632,:link: Some useful websites for programmers.
+449,209120637,Star,metaflow,209120637,2021-02-26 21:47:30,2019-09-17 17:48:25,8195,Build and manage real-life data science projects with ease.
+450,207623149,Star,Financial-Models-Numerical-Methods,207623149,2021-02-24 21:56:14,2019-09-10 17:35:01,15569,"Collection of notebooks about quantitative finance, with interactive python code."
+451,55388375,Star,causalimpact,55388375,2020-09-02 06:10:55,2016-04-04 05:57:46,1277,Python port of CausalImpact R library
+452,212634196,Star,Bayes_Computing_Course,212634196,2021-02-05 05:06:32,2019-10-03 17:05:57,35875,
+453,171134996,Star,enar_2019_tutorial,171134996,2020-11-15 06:11:03,2019-02-17 14:59:48,8107,A Primer on Python for Statistical Programming and Data Science
+454,221091581,Star,awesome-google-colab,221091581,2021-02-26 22:00:55,2019-11-11 23:53:59,1649,Google Colaboratory Notebooks and Repositories (by @firmai)
+455,7600409,Star,shadowsocks-windows,7600409,2021-02-26 18:16:50,2013-01-14 07:54:16,13411,"If you want to keep a secret, you must also hide it from yourself."
+456,179674896,Star,imagededup,179674896,2021-02-26 18:14:09,2019-04-05 12:10:54,21139,😎 Finding duplicate images made easy!
+457,63197378,Star,pandas_exercises,63197378,2021-02-26 05:57:04,2016-07-12 22:46:43,17745,Practice your pandas skills!
+458,46631797,Star,100-pandas-puzzles,46631797,2021-02-25 13:42:14,2015-11-21 20:09:52,168,"100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)"
+459,36554250,Star,Mind-Expanding-Books,36554250,2021-02-26 17:08:26,2015-05-30 10:48:21,2617, :books: Books everyone should read!
+460,67687706,Star,awesome-falsehood,67687706,2021-02-26 17:50:05,2016-09-08 09:13:47,2182,😱 Falsehoods Programmers Believe in
+461,4687884,Star,newsdiffs,4687884,2021-02-26 13:43:41,2012-06-16 21:54:51,2063,Automatic scraper that tracks changes in news articles over time.
+462,23594485,Star,disposable-email-domains,23594485,2021-02-26 05:10:38,2014-09-02 20:31:28,601,a list of disposable and temporary email address domains
+463,111027802,Star,2017-n7-Machine-Learning-High-Frequency-Time-Series,111027802,2019-10-31 14:40:39,2017-11-16 22:09:08,685,"Brian Peterson of DV Trading offers a broad, yet in-depth, talk on Machine Learning High Frequency Time Series."
+464,92457795,Star,gitsuggest,92457795,2021-02-22 14:43:33,2017-05-26 01:03:46,96,A tool to suggest github repositories based on the repositories you have shown interest in.
+465,3544490,Star,PyGithub,3544490,2021-02-26 20:36:11,2012-02-25 12:53:47,13268,Typed interactions with the GitHub API v3
+466,132561366,Star,SignalProcessingWithPython,132561366,2021-01-16 15:57:58,2018-05-08 06:00:49,5920,Signal processing examples in python
+467,149516975,Star,awesome-causality-algorithms,149516975,2021-02-26 12:40:49,2018-09-19 22:00:04,142,An index of algorithms for learning causality with data
+468,145769539,Star,awesome-causality-data,145769539,2021-02-19 07:15:43,2018-08-22 22:28:21,29,A data index for learning causality.
+469,173234235,Star,Hotel_Rating_Analysis,173234235,2019-10-24 10:00:16,2019-03-01 04:22:45,31861,
+470,102523304,Star,deep-learning-with-python-notebooks,102523304,2021-02-26 21:15:34,2017-09-05 19:47:56,6888,"Jupyter notebooks for the code samples of the book ""Deep Learning with Python"""
+471,214810760,Star,deeptrading-tfserving-python,214810760,2020-09-10 14:17:56,2019-10-13 11:48:53,72031,Tensorflow serving client implementation for trading.
+472,19868085,Star,Kalman-and-Bayesian-Filters-in-Python,19868085,2021-02-26 21:34:57,2014-05-16 19:24:36,563651,"Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions."
+473,136054718,Star,greensim,136054718,2019-10-15 20:20:07,2018-06-04 16:41:04,405,General tools for building a discrete event simulation
+474,208941260,Star,AirBnBPriceOptimizer,208941260,2021-01-10 10:20:56,2019-09-17 02:28:19,20,AirBnB host can optimize their house price based on the amenities they provide. This will make their increased ROI. 
+475,211948492,Star,baal,211948492,2021-02-25 15:32:01,2019-09-30 20:16:26,18226,Using approximate bayesian posteriors in deep nets for active learning
+476,83748372,Star,datatable,83748372,2021-02-25 12:29:45,2017-03-03 02:32:59,13092,A Python package for manipulating 2-dimensional tabular data structures
+477,85111422,Star,Data-Analysis,85111422,2021-02-26 09:00:02,2017-03-15 19:13:06,376839,Data Science Using Python
+478,90555388,Star,Python,90555388,2020-07-02 15:51:31,2017-05-07 19:09:40,1479243,Python script and Documents
+479,26830272,Star,notebooks,26830272,2021-02-21 20:38:58,2014-11-18 21:14:23,74750,Off body mind dump.
+480,12547252,Star,parquet-python,12547252,2021-02-20 20:52:51,2013-09-02 19:17:29,155,python implementation of the parquet columnar file format.
+481,169804606,Star,mylib,169804606,2020-05-28 08:25:29,2019-02-08 22:00:43,108,useful and dumb stuff
+482,105720607,Star,getting_snakey,105720607,2019-09-29 22:37:59,2017-10-04 01:21:05,1600,Collection of python code snippets for reuse
+483,75284069,Star,tick,75284069,2021-02-25 01:39:43,2016-12-01 10:59:08,54965,"Module for statistical learning, with a particular emphasis on time-dependent modelling"
+484,114776210,Star,Python-Scripts,114776210,2020-10-21 17:22:50,2017-12-19 14:41:29,92,A random collection of my Python Scripts for you to enjoy
+485,50792287,Star,python-quick-start,50792287,2020-01-28 10:42:26,2016-01-31 19:57:33,493,Example for starting new python projects. Data science oriented.
+486,208227304,Star,wattnet-fx-trading,208227304,2021-02-23 23:18:31,2019-09-13 08:44:27,11437,WATTNet: Learning to Trade FX with Hierarchical Spatio-Temporal Representations of Highly Multivariate Time Series
+487,19581797,Star,ThinkStats2,19581797,2021-02-26 09:35:11,2014-05-08 17:09:56,176590,"Text and supporting code for Think Stats, 2nd Edition"
+488,62242947,Star,ThinkComplexity2,62242947,2021-02-26 01:17:46,2016-06-29 16:58:34,173508,"Book and code for Think Complexity, 2nd edition"
+489,4107955,Star,forecast,4107955,2021-02-24 18:55:49,2012-04-22 23:19:09,102294,forecast package for R
+490,83579167,Star,Awesome-pytorch-list,83579167,2021-02-26 19:30:17,2017-03-01 16:58:16,714,"A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc."
+491,158114519,Star,ml-knowledge-graph,158114519,2021-01-27 03:54:07,2018-11-18 18:32:00,2334,Organizing concepts related to machine learning and artificial intelligence
+492,159333937,Star,ml-feynman-experience,159333937,2020-09-13 21:09:24,2018-11-27 12:44:00,1941,A collection of analytics methods implemented with Python on Google Colab
+493,125225311,Star,Scam-Brokers,125225311,2020-07-17 04:07:53,2018-03-14 14:26:17,141,"Forex scam database, warnings and free advice"
+494,64746852,Star,deep-learning-keras-tensorflow,64746852,2021-02-25 18:56:13,2016-08-02 10:13:21,62705,Introduction to Deep Neural Networks with Keras and Tensorflow
+495,142715346,Star,fourier,142715346,2021-02-26 16:53:09,2018-07-28 22:54:41,8707,An Interactive Introduction to Fourier Transforms
+496,163181674,Star,thinking-in-tensors-writing-in-pytorch,163181674,2021-02-14 04:18:58,2018-12-26 13:13:23,1607,"Thinking in tensors, writing in PyTorch (a hands-on deep learning intro)"
+497,145148726,Star,MachineLearningNotebooks,145148726,2021-02-26 21:24:17,2018-08-17 17:29:14,66173,Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
+498,33875441,Star,awesome-open-company,33875441,2021-02-21 15:05:48,2015-04-13 15:07:06,69,A community-curated list of awesome open companies.
+499,56394262,Star,awesome-funny-markov,56394262,2021-02-06 14:34:38,2016-04-16 16:37:57,17,A curated list of delightfully amusing and facetious Markov chain output.
+500,166967049,Star,industry2vec,166967049,2021-01-19 23:13:44,2019-01-22 09:36:25,176,
+501,177023075,Star,financial-machine-learning,177023075,2021-02-26 01:11:51,2019-03-21 21:00:35,105,A curated list of practical financial machine learning (FinML) tools and applications in Python (by @firmai)
+502,162940724,Star,GNNPapers,162940724,2021-02-26 21:23:33,2018-12-24 02:26:31,258,Must-read papers on graph neural networks (GNN)
+503,131646318,Star,EconML,131646318,2021-02-26 05:19:04,2018-04-30 21:02:52,63451,"ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x."
+504,40267259,Star,h2o-tutorials,40267259,2021-02-25 19:14:07,2015-08-05 20:26:22,1102143,Tutorials and training material for the H2O Machine Learning Platform
+505,161950738,Star,open-quant-live-book,161950738,2021-02-21 15:34:18,2018-12-15 23:05:21,25857,"An open source, hands-on and fully reproducible book in quantitative finance, data science and econophysics. Join us and help Make Wall Street Great Again!"
+506,136873512,Star,promote-your-next-startup,136873512,2021-02-26 01:22:45,2018-06-11 04:11:58,127,🚀 Free resources you may use to promote your next startup
+507,20281866,Star,ToolsOfTheTrade,20281866,2021-02-26 17:03:47,2014-05-29 04:11:33,1725,"Tools of The Trade, from Hacker News."
+508,152327866,Star,awesome-piracy,152327866,2021-02-26 11:14:33,2018-10-09 22:09:56,3052,A curated list of awesome warez and piracy links
+509,37680686,Star,awesome-data-engineering,37680686,2021-02-26 21:13:01,2015-06-18 19:39:42,211,A curated list of data engineering tools for software developers
+510,21515044,Star,awesome-datascience,21515044,2021-02-26 17:43:13,2014-07-05 07:07:43,1149,:memo: An awesome Data Science repository to learn and apply for real world problems.
+511,16894772,Star,PlacesToPostYourStartup,16894772,2021-02-26 17:24:04,2014-02-16 21:37:43,185,"Compiled list of links from ""Ask HN: Where can I post my startup to get beta users?"""
+512,28699471,Star,awesome-remote-job,28699471,2021-02-26 12:59:34,2015-01-02 00:31:34,927,A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+513,96454557,Star,papermill,96454557,2021-02-26 09:48:16,2017-07-06 17:17:53,1808,"📚 Parameterize, execute, and analyze notebooks"
+514,83516498,Star,pytudes,83516498,2021-02-26 18:26:22,2017-03-01 05:43:35,30645,"Python programs, usually short, of considerable difficulty, to perfect particular skills."
+515,40008409,Star,gittyleaks,40008409,2021-02-25 22:01:32,2015-07-31 14:13:12,57,:droplet: Find sensitive information for a git repo
+516,204671402,Star,awesome-online-machine-learning,204671402,2021-02-19 06:23:44,2019-08-27 09:44:51,68,":bookmark_tabs: A curated list of online machine learning courses, software, and papers"
+517,843222,Star,scikit-learn,843222,2021-02-26 20:01:56,2010-08-17 09:43:38,121625,scikit-learn: machine learning in Python
+518,200235232,Star,Data-Science-Competitions,200235232,2021-02-25 10:29:11,2019-08-02 12:59:35,108,"Goal of this repo is to provide the solutions of all Data Science Competitions(Kaggle, Data Hack, Machine Hack, Driven Data etc...)."
+519,202904458,Star,business-machine-learning-vendors,202904458,2021-01-30 23:20:15,2019-08-17 16:16:31,1009,A directory of the top business machine learning vendors
+520,201881106,Star,pyforest,201881106,2021-02-26 19:15:28,2019-08-12 07:35:46,7581,pyforest - feel the bliss of automated imports
+521,197956664,Star,python-business-analytics,197956664,2021-02-20 20:40:38,2019-07-20 16:39:11,20062,Python solutions to solve practical business problems. 
+522,196379842,Star,machine-learning-asset-management,196379842,2021-02-26 15:27:18,2019-07-11 11:16:56,66,Machine Learning in Asset Management (by @firmai)
+523,56459948,Star,training-data-analyst,56459948,2021-02-26 19:34:56,2016-04-17 21:39:27,490452,Labs and demos for courses for GCP Training (http://cloud.google.com/training).
+524,51863547,Star,handson-ml,51863547,2021-02-26 19:55:21,2016-02-16 19:48:39,85480,A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+525,99881209,Star,machine-learning-mindmap,99881209,2021-02-26 20:41:57,2017-08-10 04:29:24,15538,"A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning."
+526,41793121,Star,awesome-math,41793121,2021-02-26 15:11:50,2015-09-02 09:42:31,427,A curated list of awesome mathematics resources
+527,19415064,Star,computer-science,19415064,2021-02-26 22:11:08,2014-05-04 00:18:39,1051,:mortar_board: Path to a free self-taught education in Computer Science!
+528,26689598,Star,awesome-courses,26689598,2021-02-26 17:14:46,2014-11-15 18:36:49,1332,:books: List of awesome university courses for learning Computer Science!
+529,143328315,Star,mindsdb,143328315,2021-02-26 12:33:28,2018-08-02 17:56:45,43504,Predictive AI layer for existing databases.
+530,156157055,Star,madewithml,156157055,2021-02-26 18:20:48,2018-11-05 03:44:27,24931,Learn how to responsibly deliver value with applied ML.
+531,51117837,Star,models,51117837,2021-02-26 21:48:50,2016-02-05 01:15:20,583028,Models and examples built with TensorFlow
+532,84929289,Star,machine-learning-interview-questions,84929289,2021-02-26 19:36:27,2017-03-14 09:18:36,56,This repository is to prepare for Machine Learning interviews. 
+533,65388917,Star,PythonDataScienceHandbook,65388917,2021-02-26 21:19:17,2016-08-10 14:24:36,33922,Python Data Science Handbook: full text in Jupyter Notebooks
+534,117483278,Star,data-science-question-answer,117483278,2021-02-25 13:24:05,2018-01-15 01:39:56,2390,A repo for data science related questions and answers
+535,190427007,Star,deeplearning-models,190427007,2021-02-26 19:26:37,2019-06-05 16:08:20,18539,"A collection of various deep learning architectures, models, and tips"
+536,45137369,Star,neural-storyteller,45137369,2021-02-22 11:13:27,2015-10-28 19:38:46,621,A recurrent neural network for generating little stories about images
+537,78406054,Star,LSTM-text-generation,78406054,2020-04-20 19:21:08,2017-01-09 07:50:20,16,Generating NEW Reuters articles from Reuters articles.
+538,89346911,Star,Github-full-data-set,89346911,2020-03-21 14:01:01,2017-04-25 10:14:41,290689,Generating GitHub data (~1M repositories May 2017).
+539,66424871,Star,examples,66424871,2021-02-26 18:06:27,2016-08-24 03:12:48,40096,"A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc."
+540,33015583,Star,keras,33015583,2021-02-26 19:03:31,2015-03-28 00:35:42,15676,Deep Learning for humans
+541,45986162,Star,TensorFlow-Examples,45986162,2021-02-26 18:56:01,2015-11-11 14:21:19,10244,TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+542,52665794,Star,GitMiner,52665794,2021-02-25 21:52:59,2016-02-27 12:30:44,142,Tool for advanced mining for content on Github
+543,118858739,Star,hacker-laws,118858739,2021-02-26 20:56:14,2018-01-25 03:46:34,2289,"💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws"
+544,40242771,Star,data-science-blogs,40242771,2021-02-26 14:10:22,2015-08-05 11:58:14,331,A curated list of data science blogs
+545,184701688,Star,industry-machine-learning,184701688,2021-02-26 19:16:11,2019-05-03 05:08:15,2798,A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
+546,171532286,Star,business-machine-learning,171532286,2021-02-25 08:43:37,2019-02-19 19:02:59,433,"A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employee, Legal, Management and Operations (by @firmai)"
+547,127008307,Star,awful-ai,127008307,2021-02-26 21:51:29,2018-03-27 15:30:34,217,😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness
+548,29273084,Star,pandas-datareader,29273084,2021-02-25 14:24:05,2015-01-15 00:34:19,12377,Extract data from a wide range of Internet sources into a pandas DataFrame.
+549,71383857,Star,flint,71383857,2021-02-23 04:32:05,2016-10-19 17:44:15,1503,A Time Series Library for Apache Spark
+550,150106807,Star,datamine-rsmetrics,150106807,2020-04-07 16:57:17,2018-09-24 13:27:58,1590,Overview of RSMetrics satellite data for metal commodities.
+551,157904529,Star,datamine-orbitalinsight,157904529,2020-04-07 09:35:11,2018-11-16 18:11:45,1030,Overview of Orbital Insights satellite data for Crude Oil commodities.
+552,91593042,Star,comdb2,91593042,2021-02-25 17:18:42,2017-05-17 15:39:23,51419,Bloomberg's distributed RDBMS
+553,50544166,Star,feather,50544166,2021-02-26 20:30:07,2016-01-27 22:59:51,408,"Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow"
+554,22178685,Star,rvest,22178685,2021-02-26 08:18:42,2014-07-23 21:22:27,7390,Simple web scraping for R
+555,4729944,Star,shiny,4729944,2021-02-26 16:35:21,2012-06-20 18:45:11,35961,Easy interactive web applications with R
+556,13722949,Star,shiny-examples,13722949,2021-02-25 08:48:23,2013-10-20 17:05:23,101947,
+557,63266213,Star,og-aws,63266213,2021-02-26 21:19:20,2016-07-13 17:30:16,7523,📙 Amazon Web Services — a practical guide
+558,70036319,Star,MLAlgorithms,70036319,2021-02-26 19:52:19,2016-10-05 06:46:45,11933,Minimal and clean examples of machine learning algorithms implementations
+559,21500692,Star,awesome-bigdata,21500692,2021-02-26 22:06:47,2014-07-04 15:01:03,940,"A curated list of awesome big data frameworks, ressources and other awesomeness."
+560,78862695,Star,FreeWifi,78862695,2021-02-25 08:11:39,2017-01-13 15:45:14,19,How to get free wifi.
+561,26876372,Star,dateutil,26876372,2021-02-26 13:23:36,2014-11-19 18:56:16,5685,Useful extensions to the standard Python datetime features
+562,63476337,Star,Python,63476337,2021-02-26 21:18:49,2016-07-16 09:44:01,11501,All Algorithms implemented in Python
+563,60493101,Star,coding-interview-university,60493101,2021-02-26 22:11:57,2016-06-06 02:34:12,12397,A complete computer science study plan to become a software engineer.
+564,37535331,Star,switching-to-contracting-uk,37535331,2021-02-25 17:11:52,2015-06-16 14:29:16,64,A step by step guide of how to start contracting in United Kingdom
+565,18258282,Star,pattern_classification,18258282,2021-02-26 17:55:40,2014-03-30 05:34:34,112921,A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
+566,38655047,Star,cvx_short_course,38655047,2021-02-25 22:52:40,2015-07-07 00:57:18,7482,Materials for a short course on convex optimization.
+567,127898331,Star,project-based-tutorials-in-c,127898331,2021-02-26 19:45:25,2018-04-03 11:35:21,190,A curated list of project-based tutorials in C
+568,128676320,Star,aiomultiprocess,128676320,2021-02-26 15:58:43,2018-04-08 19:49:41,144,Take a modern Python codebase to the next level of performance.
+569,24530816,Star,awesome-github,24530816,2021-02-25 21:33:39,2014-09-27 12:03:59,65,An exquisite list of awesome :octocat: secrets.
+570,110008892,Star,Portfolio-compute,110008892,2019-07-03 16:13:17,2017-11-08 17:35:59,873,WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode.
+571,93775722,Star,Predictive-Market-Stress-Testing,93775722,2021-02-23 16:51:36,2017-06-08 17:36:42,832,WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode.
+572,100408838,Star,Integrate-Investment-Portfolio,100408838,2019-07-03 15:58:56,2017-08-15 18:52:49,6482,WARNING: This repository is no longer maintained :warning: This repository will not be updated. The repository will be kept available in read-only mode.
+573,7607075,Star,Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,7607075,2021-02-26 19:33:53,2013-01-14 15:46:28,143113,"aka ""Bayesian Methods for Hackers"": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  "
+574,26898879,Star,awesome-public-datasets,26898879,2021-02-26 18:43:23,2014-11-20 06:20:50,963,A topic-centric list of HQ open datasets.
+575,111503597,Star,EliteQuant,111503597,2021-02-26 19:42:09,2017-11-21 05:28:40,1256,"A list of online resources for quantitative modeling, trading, portfolio management"
+576,106822366,Star,industry-classification-lookup,106822366,2021-01-21 22:02:49,2017-10-13 12:37:11,1863,
+577,149301793,Star,HFTC2018Q3,149301793,2019-04-09 13:51:08,2018-09-18 14:27:11,41833,Notebook and slideshow for HFTC 2018-09-20
+578,74073233,Star,algorithms,74073233,2021-02-26 21:11:01,2016-11-17 22:32:08,1310,Minimal examples of data structures and algorithms in Python
+579,27964659,Star,eurexas,27964659,2020-12-08 07:22:34,2014-12-13 15:27:44,1698,Eurex VSTOXX & Variance Advanced Services
+580,46872205,Star,PythonTrainingExercises,46872205,2021-02-22 19:59:12,2015-11-25 16:06:53,114,Code to exercise your Python knowledge.
+581,134993131,Star,pystore,134993131,2021-02-21 15:09:53,2018-05-26 20:38:44,207,Fast data store for Pandas time-series data
+582,142009088,Star,timecop,142009088,2021-02-04 11:20:08,2018-07-23 12:08:55,47421,Time series based anomaly detector
+583,71529011,Star,lvvd,71529011,2021-02-22 13:32:15,2016-10-21 04:12:50,6538,Listed Volatility and Variance Derivatives (Wiley Finance)
+584,1096101,Star,uterus,1096101,2019-03-20 16:04:35,2010-11-19 22:49:59,4306,universal tick encoder library to efficiently transport huge amounts of tick data
+585,6364335,Star,BristolStockExchange,6364335,2021-02-24 07:09:48,2012-10-24 04:01:21,8438,BSE is a simple minimal simulation of a limit order book financial exchange
+586,38818864,Star,dawp,38818864,2021-02-26 00:57:41,2015-07-09 12:27:29,17722,Jupyter Notebooks and code for Derivatives Analytics with Python (Wiley Finance) by Yves Hilpisch.
+587,159941158,Star,py4fi2nd,159941158,2021-02-26 10:10:53,2018-12-01 12:14:05,16582,"Jupyter Notebooks and code for Python for Finance (2nd ed., O'Reilly) by Yves Hilpisch."
+588,162465105,Star,tick-data,162465105,2019-03-18 14:57:13,2018-12-19 16:43:06,50751,tick-data for major markets
+589,83573712,Star,Ultimate-TSDB-Comparison,83573712,2020-11-13 16:51:27,2017-03-01 16:04:47,6216,Feature comparison of open source Time Series Databases (TSDBs)
+590,71190322,Star,awesome-time-series-database,71190322,2021-02-25 12:59:46,2016-10-17 23:38:35,3398,":clock7: A curated list of awesome time series databases, benchmarks and papers"
+591,93959339,Star,tsa,93959339,2021-02-11 08:23:09,2017-06-10 18:53:02,22403,The Thalesians' Time Series Analysis (TSA) library
+592,29749635,Star,data-science-ipython-notebooks,29749635,2021-02-26 18:54:05,2015-01-23 19:38:29,49025,"Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines."
+593,21872392,Star,awesome-machine-learning,21872392,2021-02-26 18:23:53,2014-07-15 19:11:19,2962,"A curated list of awesome Machine Learning frameworks, libraries and software."
+594,21289110,Star,awesome-python,21289110,2021-02-26 21:40:40,2014-06-27 21:00:06,6596,"A curated list of awesome Python frameworks, libraries, software and resources"
+595,46433937,Star,golem,46433937,2021-02-24 03:14:29,2015-11-18 17:02:35,164785,Golem is creating a global market for computing power.
+596,72294556,Star,deep-learning-papers,72294556,2021-02-24 13:13:53,2016-10-29 15:59:13,64787,"Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled."
+597,29456624,Star,awesome-readme,29456624,2021-02-26 19:13:38,2015-01-19 06:15:03,136,A curated list of awesome READMEs
+598,73872834,Star,prophet,73872834,2021-02-26 15:40:52,2016-11-16 01:50:08,44191,Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+599,19869783,Star,Python-for-Signal-Processing,19869783,2020-12-06 14:02:24,2014-05-16 20:28:30,15066,"Notebooks for ""Python for Signal Processing"" book"
+600,22556491,Star,high_performance_python,22556491,2021-02-21 03:43:16,2014-08-02 20:11:07,17790,"Code for the book ""High Performance Python"" by Micha Gorelick and Ian Ozsvald with OReilly"
+601,43425480,Star,awesome-quant,43425480,2021-02-26 18:36:57,2015-09-30 09:53:49,269,"A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)"
+602,147081519,Star,pwc,147081519,2021-02-26 18:15:26,2018-09-02 12:06:52,1643,Papers with code. Sorted by stars. Updated weekly. 

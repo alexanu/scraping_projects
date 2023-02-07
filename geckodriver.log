@@ -1,0 +1,182 @@
+1674166505547	geckodriver	INFO	Listening on 127.0.0.1:63293
+1674166508599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kalmar\\AppData\\Local\\Temp\\rust_mozprofile9OlSV8"
+*** You are running in headless mode.
+1674166534027	geckodriver	INFO	Listening on 127.0.0.1:63353
+1674166537059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kalmar\\AppData\\Local\\Temp\\rust_mozprofile4KtRG8"
+*** You are running in headless mode.
+1674166537329	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674166537333	Marionette	INFO	Listening on port 63362
+WebDriver BiDi listening on ws://127.0.0.1:63354
+Read port: 63362
+1674166537548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmar\\AppData\\Local\\Temp\\rust_mozprofile4KtRG8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63354/devtools/browser/796d6e06-9f2d-423a-88e8-2e4632864323
+1674166555883	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674166555890	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674166555898	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674166555902	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674166555906	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674166555910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674166555916	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674166555920	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674166555924	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674166555927	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.skyscanner.de/rf8vapwA/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674166886938	Marionette	INFO	Stopped listening on port 63362
+Dynamically enable window occlusion 1
+1674166898057	geckodriver	INFO	Listening on 127.0.0.1:63474
+1674166903156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kalmar\\AppData\\Local\\Temp\\rust_mozprofileiR74y6"
+1674166903439	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674166903443	Marionette	INFO	Listening on port 63485
+Read port: 63485
+WebDriver BiDi listening on ws://127.0.0.1:63475
+1674166903556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmar\\AppData\\Local\\Temp\\rust_mozprofileiR74y6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63475/devtools/browser/1af07f0d-c531-40b6-9da9-2a89d46e33d9
+JavaScript warning: https://www.skyscanner.de/rf8vapwA/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 3203 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:762:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:632:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1046:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1046, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1046))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:336:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:762:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:632:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1046:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1046, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1046))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:336:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+1674167351901	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167351908	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: "Listener for event 'frame' did not return a promise."
+1674167351915	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167351925	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167351930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167351936	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167351941	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167351946	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167351950	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167351955	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.skyscanner.de/rf8vapwA/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674167366025	Marionette	INFO	Stopped listening on port 63485
+Dynamically enable window occlusion 1
+1674167400357	geckodriver	INFO	Listening on 127.0.0.1:63709
+1674167403397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kalmar\\AppData\\Local\\Temp\\rust_mozprofileUZ3OHb"
+*** You are running in headless mode.
+1674167403674	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674167403678	Marionette	INFO	Listening on port 63718
+Read port: 63718
+WebDriver BiDi listening on ws://127.0.0.1:63710
+1674167403773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kalmar\\AppData\\Local\\Temp\\rust_mozprofileUZ3OHb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63710/devtools/browser/deb28c9e-d8ff-48e5-85e4-1059b4dc73a7
+1674167418991	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167418996	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167419003	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167419007	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167419013	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167419017	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167419025	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167419030	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167419034	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1674167419037	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.skyscanner.de/rf8vapwA/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674167635508	Marionette	INFO	Stopped listening on port 63718
+Dynamically enable window occlusion 1

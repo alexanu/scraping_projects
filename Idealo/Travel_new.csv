@@ -1,0 +1,235 @@
+Destination,Dates,Price,Group,Period,Status,Regio
+New York La Guardia,"['01.12.2023', '13.12.2023']",335,fernreisen,2023-12,2023-01-28,USA East
+Philadelphia,"['08.09.2023', '02.10.2023']",343,fernreisen,2023-09,2023-01-28,USA East
+Cancun,"['12.09.2023', '26.09.2023']",376,fernreisen,2023-09,2023-01-28,Karibik
+Tampa,"['09.09.2023', '25.09.2023']",378,fernreisen,2023-09,2023-01-28,USA East
+Miami International,"['20.10.2023', '17.11.2023']",379,fernreisen,2023-10,2023-01-28,USA East
+Seattle,"['21.04.2023', '03.05.2023']",385,fernreisen,2023-04,2023-01-28,USA West
+Austin,"['18.09.2023', '18.10.2023']",396,fernreisen,2023-09,2023-01-28,USA
+Las Vegas,"['19.09.2023', '01.10.2023']",400,fernreisen,2023-09,2023-01-28,USA West
+Entebbe,"['11.09.2023', '04.10.2023']",402,fernreisen,2023-09,2023-01-28,Africa
+Havanna,"['15.06.2023', '02.07.2023']",404,fernreisen,2023-06,2023-01-28,Karibik
+Dallas,"['11.09.2023', '11.10.2023']",405,fernreisen,2023-09,2023-01-28,USA
+West Palm Beach,"['27.10.2023', '21.11.2023']",409,fernreisen,2023-10,2023-01-28,USA East
+Jacksonville Florida,"['06.04.2023', '02.05.2023']",417,fernreisen,2023-04,2023-01-28,USA East
+Pensacola,"['07.04.2023', '27.04.2023']",419,fernreisen,2023-04,2023-01-28,USA
+Atlanta,"['01.09.2023', '17.09.2023']",420,fernreisen,2023-09,2023-01-28,USA East
+Fort Myers,"['13.09.2023', '09.10.2023']",423,fernreisen,2023-09,2023-01-28,USA
+San Francisco,"['28.10.2023', '14.11.2023']",425,fernreisen,2023-10,2023-01-28,USA West
+Sarasota,"['29.08.2023', '13.09.2023']",426,fernreisen,2023-08,2023-01-28,USA East
+Fort Lauderdale,"['04.04.2023', '29.04.2023']",431,fernreisen,2023-04,2023-01-28,USA
+Washington DC,"['27.08.2023', '13.09.2023']",433,fernreisen,2023-08,2023-01-28,USA East
+Halifax,"['08.03.2023', '27.03.2023']",433,fernreisen,2023-03,2023-01-28,Europe
+Salt Lake City,"['04.04.2023', '03.05.2023']",440,fernreisen,2023-04,2023-01-28,USA
+Roatan,"['29.04.2023', '17.05.2023']",443,fernreisen,2023-04,2023-01-28,
+San Diego,"['27.10.2023', '21.11.2023']",444,fernreisen,2023-10,2023-01-28,USA West
+Los Angeles,"['15.10.2023', '06.11.2023']",445,fernreisen,2023-10,2023-01-28,USA West
+Bangkok,"['16.09.2023', '23.09.2023']",452,fernreisen,2023-09,2023-01-28,Asia
+Mexico City,"['30.10.2023', '17.11.2023']",454,fernreisen,2023-10,2023-01-28,Karibik
+San Jose,"['15.09.2023', '15.10.2023']",454,fernreisen,2023-09,2023-01-28,USA West
+Houston,"['01.07.2023', '11.07.2023']",456,fernreisen,2023-07,2023-01-28,USA
+Toronto,"['21.08.2023', '09.09.2023']",458,fernreisen,2023-08,2023-01-28,Canada
+Belize City,"['27.02.2023', '15.03.2023']",459,fernreisen,2023-02,2023-01-28,
+Vancouver,"['04.09.2023', '17.09.2023']",461,fernreisen,2023-09,2023-01-28,Canada
+Dar es Salaam,"['17.04.2023', '14.05.2023']",462,fernreisen,2023-04,2023-01-28,Africa
+Addis Abeba,"['10.10.2023', '25.10.2023']",465,fernreisen,2023-10,2023-01-28,Africa
+New York La Guardia,"['01.12.2023', '13.12.2023']",335,fernreisen,2023-12,2023-01-28,USA East
+Philadelphia,"['08.09.2023', '02.10.2023']",343,fernreisen,2023-09,2023-01-28,USA East
+Cancun,"['12.09.2023', '26.09.2023']",376,fernreisen,2023-09,2023-01-28,Karibik
+Tampa,"['09.09.2023', '25.09.2023']",378,fernreisen,2023-09,2023-01-28,USA East
+Miami International,"['20.10.2023', '17.11.2023']",379,fernreisen,2023-10,2023-01-28,USA East
+Seattle,"['21.04.2023', '03.05.2023']",385,fernreisen,2023-04,2023-01-28,USA West
+Austin,"['18.09.2023', '18.10.2023']",396,fernreisen,2023-09,2023-01-28,USA
+Las Vegas,"['19.09.2023', '01.10.2023']",400,fernreisen,2023-09,2023-01-28,USA West
+Entebbe,"['11.09.2023', '04.10.2023']",402,fernreisen,2023-09,2023-01-28,Africa
+Havanna,"['15.06.2023', '02.07.2023']",404,fernreisen,2023-06,2023-01-28,Karibik
+Dallas,"['11.09.2023', '11.10.2023']",405,fernreisen,2023-09,2023-01-28,USA
+West Palm Beach,"['27.10.2023', '21.11.2023']",409,fernreisen,2023-10,2023-01-28,USA East
+Jacksonville Florida,"['06.04.2023', '02.05.2023']",417,fernreisen,2023-04,2023-01-28,USA East
+Pensacola,"['07.04.2023', '27.04.2023']",419,fernreisen,2023-04,2023-01-28,USA
+Atlanta,"['01.09.2023', '17.09.2023']",420,fernreisen,2023-09,2023-01-28,USA East
+Fort Myers,"['13.09.2023', '09.10.2023']",423,fernreisen,2023-09,2023-01-28,USA
+San Francisco,"['28.10.2023', '14.11.2023']",425,fernreisen,2023-10,2023-01-28,USA West
+Sarasota,"['29.08.2023', '13.09.2023']",426,fernreisen,2023-08,2023-01-28,USA East
+Fort Lauderdale,"['04.04.2023', '29.04.2023']",431,fernreisen,2023-04,2023-01-28,USA
+Washington DC,"['27.08.2023', '13.09.2023']",433,fernreisen,2023-08,2023-01-28,USA East
+Halifax,"['08.03.2023', '27.03.2023']",433,fernreisen,2023-03,2023-01-28,Europe
+Salt Lake City,"['04.04.2023', '03.05.2023']",440,fernreisen,2023-04,2023-01-28,USA
+Roatan,"['29.04.2023', '17.05.2023']",443,fernreisen,2023-04,2023-01-28,
+San Diego,"['27.10.2023', '21.11.2023']",444,fernreisen,2023-10,2023-01-28,USA West
+Los Angeles,"['15.10.2023', '06.11.2023']",445,fernreisen,2023-10,2023-01-28,USA West
+Bangkok,"['16.09.2023', '23.09.2023']",452,fernreisen,2023-09,2023-01-28,Asia
+Mexico City,"['30.10.2023', '17.11.2023']",454,fernreisen,2023-10,2023-01-28,Karibik
+San Jose,"['15.09.2023', '15.10.2023']",454,fernreisen,2023-09,2023-01-28,USA West
+Houston,"['01.07.2023', '11.07.2023']",456,fernreisen,2023-07,2023-01-28,USA
+Toronto,"['21.08.2023', '09.09.2023']",458,fernreisen,2023-08,2023-01-28,Canada
+Belize City,"['27.02.2023', '15.03.2023']",459,fernreisen,2023-02,2023-01-28,
+Vancouver,"['04.09.2023', '17.09.2023']",461,fernreisen,2023-09,2023-01-28,Canada
+Dar es Salaam,"['17.04.2023', '14.05.2023']",462,fernreisen,2023-04,2023-01-28,Africa
+Addis Abeba,"['10.10.2023', '25.10.2023']",465,fernreisen,2023-10,2023-01-28,Africa
+Dublin,"['22.08.2023', '05.09.2023']",67,sommerferien,2023-08,2023-01-28,Europe
+Zadar,"['23.08.2023', '06.09.2023']",68,sommerferien,2023-08,2023-01-28,Europe
+Brindisi,"['07.08.2023', '23.08.2023']",88,sommerferien,2023-08,2023-01-28,Europe
+Neapel,"['27.08.2023', '03.09.2023']",97,sommerferien,2023-08,2023-01-28,Europe Italy
+Malta,"['25.08.2023', '04.09.2023']",105,sommerferien,2023-08,2023-01-28,Europe
+Palermo,"['21.08.2023', '30.08.2023']",116,sommerferien,2023-08,2023-01-28,Europe Italy
+Athen,"['03.08.2023', '17.08.2023']",141,sommerferien,2023-08,2023-01-28,Europe
+Madrid,"['02.09.2023', '09.09.2023']",141,sommerferien,2023-09,2023-01-28,Europe Spain
+Lissabon,"['26.08.2023', '05.09.2023']",144,sommerferien,2023-08,2023-01-28,Europe Spain
+Menorca,"['03.09.2023', '10.09.2023']",144,sommerferien,2023-09,2023-01-28,Europe Spain
+Valencia,"['28.08.2023', '04.09.2023']",145,sommerferien,2023-08,2023-01-28,Europe Spain
+Porto,"['12.08.2023', '31.08.2023']",149,sommerferien,2023-08,2023-01-28,Europe Spain
+Riga,"['03.09.2023', '11.09.2023']",149,sommerferien,2023-09,2023-01-28,Europe
+Ibiza,"['02.09.2023', '14.09.2023']",172,sommerferien,2023-09,2023-01-28,Europe Spain
+Malaga,"['01.09.2023', '11.09.2023']",188,sommerferien,2023-09,2023-01-28,Europe Spain
+Casablanca,"['04.09.2023', '13.09.2023']",195,sommerferien,2023-09,2023-01-28,
+Larnaca,"['02.09.2023', '13.09.2023']",196,sommerferien,2023-09,2023-01-28,Europe
+Sevilla,"['01.09.2023', '09.09.2023']",196,sommerferien,2023-09,2023-01-28,Europe Spain
+Marrakesch,"['04.09.2023', '13.09.2023']",197,sommerferien,2023-09,2023-01-28,Africa
+Faro,"['02.09.2023', '09.09.2023']",199,sommerferien,2023-09,2023-01-28,Europe Spain
+Kreta Heraklion,"['04.09.2023', '14.09.2023']",223,sommerferien,2023-09,2023-01-28,Europe
+Reykjavik Keflavik,"['27.08.2023', '11.09.2023']",224,sommerferien,2023-08,2023-01-28,Europe
+Paphos,"['03.08.2023', '13.08.2023']",277,sommerferien,2023-08,2023-01-28,Europe
+Tel Aviv,"['03.09.2023', '11.09.2023']",295,sommerferien,2023-09,2023-01-28,MENA
+New York La Guardia,"['25.08.2023', '08.09.2023']",338,sommerferien,2023-08,2023-01-28,USA East
+Philadelphia,"['24.08.2023', '23.09.2023']",381,sommerferien,2023-08,2023-01-28,USA East
+Austin,"['27.08.2023', '13.09.2023']",401,sommerferien,2023-08,2023-01-28,USA
+Atlanta,"['01.09.2023', '17.09.2023']",420,sommerferien,2023-09,2023-01-28,USA East
+West Palm Beach,"['01.09.2023', '27.09.2023']",420,sommerferien,2023-09,2023-01-28,USA East
+Sarasota,"['29.08.2023', '13.09.2023']",426,sommerferien,2023-08,2023-01-28,USA East
+Dallas,"['21.08.2023', '15.09.2023']",429,sommerferien,2023-08,2023-01-28,USA
+Washington DC,"['27.08.2023', '13.09.2023']",433,sommerferien,2023-08,2023-01-28,USA East
+San Diego,"['24.08.2023', '13.09.2023']",447,sommerferien,2023-08,2023-01-28,USA West
+San Francisco,"['28.08.2023', '13.09.2023']",448,sommerferien,2023-08,2023-01-28,USA West
+Toronto,"['21.08.2023', '09.09.2023']",458,sommerferien,2023-08,2023-01-28,Canada
+Houston,"['10.08.2023', '07.09.2023']",464,sommerferien,2023-08,2023-01-28,USA
+San Jose,"['26.08.2023', '11.09.2023']",465,sommerferien,2023-08,2023-01-28,USA West
+Male,"['21.08.2023', '13.09.2023']",571,sommerferien,2023-08,2023-01-28,MENA
+Colombo,"['15.08.2023', '13.09.2023']",590,sommerferien,2023-08,2023-01-28,Asia
+San Jose Costa Rica,"['22.08.2023', '09.09.2023']",618,sommerferien,2023-08,2023-01-28,Karibik
+Guadalajara,"['19.08.2023', '11.09.2023']",629,sommerferien,2023-08,2023-01-28,
+Bangkok,"['21.08.2023', '11.09.2023']",632,sommerferien,2023-08,2023-01-28,Asia
+Bali,"['04.09.2023', '14.09.2023']",707,sommerferien,2023-09,2023-01-28,Asia
+Lima,"['20.08.2023', '03.09.2023']",713,sommerferien,2023-08,2023-01-28,Karibik
+Zagreb,"['05.02.2023', '10.02.2023']",21,last-minute,2023-02,2023-01-28,Europe
+Riga,"['06.02.2023', '10.02.2023']",29,last-minute,2023-02,2023-01-28,Europe
+Catania,"['07.02.2023', '14.02.2023']",41,last-minute,2023-02,2023-01-28,Europe Italy
+Granada,"['09.02.2023', '12.02.2023']",141,last-minute,2023-02,2023-01-28,
+Funchal,"['31.01.2023', '14.02.2023']",142,last-minute,2023-01,2023-01-28,Europe Spain
+Teneriffa Süd,"['03.02.2023', '06.02.2023']",142,last-minute,2023-02,2023-01-28,Europe Spain
+Göteborg,"['10.02.2023', '13.02.2023']",143,last-minute,2023-02,2023-01-28,
+Marrakesch,"['09.02.2023', '17.02.2023']",147,last-minute,2023-02,2023-01-28,Africa
+Santander,"['04.02.2023', '08.02.2023']",147,last-minute,2023-02,2023-01-28,Europe Spain
+Athen,"['01.02.2023', '08.02.2023']",148,last-minute,2023-02,2023-01-28,Europe
+Dalaman,"['29.01.2023', '02.02.2023']",149,last-minute,2023-01,2023-01-28,MENA
+Riyadh,"['01.02.2023', '15.02.2023']",224,last-minute,2023-02,2023-01-28,MENA
+Abu Dhabi,"['31.01.2023', '08.02.2023']",320,last-minute,2023-01,2023-01-28,MENA
+Doha,"['31.01.2023', '14.02.2023']",362,last-minute,2023-01,2023-01-28,MENA
+Zagreb,"['05.03.2023', '24.03.2023']",15,staedtereisen,2023-03,2023-01-28,Europe
+Riga,"['13.03.2023', '17.03.2023']",29,staedtereisen,2023-03,2023-01-28,Europe
+Palermo,"['05.03.2023', '17.03.2023']",32,staedtereisen,2023-03,2023-01-28,Europe Italy
+Dublin,"['18.04.2023', '25.04.2023']",37,staedtereisen,2023-04,2023-01-28,Europe
+Thessaloniki,"['15.05.2023', '24.05.2023']",39,staedtereisen,2023-05,2023-01-28,Europe
+Catania,"['14.03.2023', '21.03.2023']",40,staedtereisen,2023-03,2023-01-28,Europe Italy
+Neapel,"['26.03.2023', '30.03.2023']",41,staedtereisen,2023-03,2023-01-28,Europe Italy
+Porto,"['04.05.2023', '18.05.2023']",41,staedtereisen,2023-05,2023-01-28,Europe Spain
+Valencia,"['04.05.2023', '08.05.2023']",43,staedtereisen,2023-05,2023-01-28,Europe Spain
+Brindisi,"['26.04.2023', '03.05.2023']",45,staedtereisen,2023-04,2023-01-28,Europe
+Zadar,"['18.06.2023', '22.06.2023']",47,staedtereisen,2023-06,2023-01-28,Europe
+Krakau,"['06.06.2023', '10.06.2023']",67,staedtereisen,2023-06,2023-01-28,
+Chania,"['26.03.2023', '02.04.2023']",73,staedtereisen,2023-03,2023-01-28,Europe
+Barcelona,"['27.11.2023', '10.12.2023']",74,staedtereisen,2023-11,2023-01-28,Europe Spain
+Rom Fiumicino,"['12.09.2023', '26.09.2023']",74,staedtereisen,2023-09,2023-01-28,Europe Italy
+Lissabon,"['28.02.2023', '02.03.2023']",78,staedtereisen,2023-02,2023-01-28,Europe Spain
+Zagreb,"['04.05.2023', '09.05.2023']",18,kurzurlaub,2023-05,2023-01-28,Europe
+Riga,"['13.03.2023', '17.03.2023']",29,kurzurlaub,2023-03,2023-01-28,Europe
+Mallorca,"['16.04.2023', '20.04.2023']",37,kurzurlaub,2023-04,2023-01-28,Europe Spain
+Alicante,"['21.04.2023', '25.04.2023']",41,kurzurlaub,2023-04,2023-01-28,Europe Spain
+Neapel,"['26.03.2023', '30.03.2023']",41,kurzurlaub,2023-03,2023-01-28,Europe Italy
+Catania,"['28.02.2023', '04.03.2023']",43,kurzurlaub,2023-02,2023-01-28,Europe Italy
+Malta,"['08.05.2023', '12.05.2023']",43,kurzurlaub,2023-05,2023-01-28,Europe
+Valencia,"['04.05.2023', '08.05.2023']",43,kurzurlaub,2023-05,2023-01-28,Europe Spain
+Zadar,"['18.06.2023', '22.06.2023']",47,kurzurlaub,2023-06,2023-01-28,Europe
+Krakau,"['06.06.2023', '10.06.2023']",67,kurzurlaub,2023-06,2023-01-28,
+Chania,"['29.03.2023', '02.04.2023']",74,kurzurlaub,2023-03,2023-01-28,Europe
+Lissabon,"['28.02.2023', '02.03.2023']",78,kurzurlaub,2023-02,2023-01-28,Europe Spain
+Barcelona,"['26.04.2023', '01.05.2023']",81,kurzurlaub,2023-04,2023-01-28,Europe Spain
+Luxemburg,"['04.10.2023', '06.10.2023']",89,kurzurlaub,2023-10,2023-01-28,
+Rom Fiumicino,"['07.05.2023', '10.05.2023']",95,kurzurlaub,2023-05,2023-01-28,Europe Italy
+Palermo,"['03.07.2023', '05.07.2023']",95,kurzurlaub,2023-07,2023-01-28,Europe Italy
+Madrid,"['17.09.2023', '20.09.2023']",101,kurzurlaub,2023-09,2023-01-28,Europe Spain
+Porto,"['01.07.2023', '04.07.2023']",107,kurzurlaub,2023-07,2023-01-28,Europe Spain
+Zadar,"['18.06.2023', '22.06.2023']",47,warme-reiseziele,2023-06,2023-01-28,Europe
+Zagreb,"['06.07.2023', '15.07.2023']",57,warme-reiseziele,2023-07,2023-01-28,Europe
+Mallorca,"['27.06.2023', '06.07.2023']",71,warme-reiseziele,2023-06,2023-01-28,Europe Spain
+Rom Fiumicino,"['12.09.2023', '26.09.2023']",74,warme-reiseziele,2023-09,2023-01-28,Europe Italy
+Chania,"['03.05.2023', '12.05.2023']",91,warme-reiseziele,2023-05,2023-01-28,Europe
+Thessaloniki,"['05.07.2023', '12.07.2023']",94,warme-reiseziele,2023-07,2023-01-28,Europe
+Malta,"['16.06.2023', '23.06.2023']",95,warme-reiseziele,2023-06,2023-01-28,Europe
+Madrid,"['20.06.2023', '04.07.2023']",96,warme-reiseziele,2023-06,2023-01-28,Europe Spain
+Alicante,"['22.09.2023', '29.09.2023']",104,warme-reiseziele,2023-09,2023-01-28,Europe Spain
+Barcelona,"['06.09.2023', '20.09.2023']",105,warme-reiseziele,2023-09,2023-01-28,Europe Spain
+Korfu,"['30.06.2023', '14.07.2023']",107,warme-reiseziele,2023-06,2023-01-28,Europe
+Lissabon,"['21.06.2023', '06.07.2023']",119,warme-reiseziele,2023-06,2023-01-28,Europe Spain
+Malaga,"['06.09.2023', '20.09.2023']",123,warme-reiseziele,2023-09,2023-01-28,Europe Spain
+Athen,"['13.09.2023', '27.09.2023']",139,warme-reiseziele,2023-09,2023-01-28,Europe
+Ibiza,"['07.09.2023', '21.09.2023']",140,warme-reiseziele,2023-09,2023-01-28,Europe Spain
+Korfu,"['03.07.2023', '16.07.2023']",141,warme-reiseziele,2023-07,2023-01-28,Europe
+Dalaman,"['14.10.2023', '25.10.2023']",141,warme-reiseziele,2023-10,2023-01-28,MENA
+Granada,"['10.07.2023', '17.07.2023']",141,warme-reiseziele,2023-07,2023-01-28,
+Marrakesch,"['07.05.2023', '19.05.2023']",141,warme-reiseziele,2023-05,2023-01-28,Africa
+Alicante,"['06.09.2023', '16.09.2023']",142,warme-reiseziele,2023-09,2023-01-28,Europe Spain
+Faro,"['10.07.2023', '17.07.2023']",142,warme-reiseziele,2023-07,2023-01-28,Europe Spain
+Kos,"['08.10.2023', '19.10.2023']",142,warme-reiseziele,2023-10,2023-01-28,Europe
+Skiathos,"['07.07.2023', '10.07.2023']",143,warme-reiseziele,2023-07,2023-01-28,
+Las Palmas,"['06.11.2023', '24.11.2023']",143,warme-reiseziele,2023-11,2023-01-28,Europe Spain
+Sevilla,"['30.09.2023', '20.10.2023']",143,warme-reiseziele,2023-09,2023-01-28,Europe Spain
+Teneriffa Süd,"['09.05.2023', '23.05.2023']",143,warme-reiseziele,2023-05,2023-01-28,Europe Spain
+Menorca,"['03.09.2023', '10.09.2023']",144,warme-reiseziele,2023-09,2023-01-28,Europe Spain
+Valencia,"['28.08.2023', '04.09.2023']",145,warme-reiseziele,2023-08,2023-01-28,Europe Spain
+Malta,"['30.10.2023', '03.11.2023']",146,warme-reiseziele,2023-10,2023-01-28,Europe
+Kairo,"['28.12.2023', '09.01.2024']",292,weihnachtsferien,2023-12,2023-01-28,MENA
+New York La Guardia,"['01.12.2023', '13.12.2023']",335,weihnachten,2023-12,2023-01-28,USA East
+Thessaloniki,"['15.05.2023', '24.05.2023']",39,beste-urlaubsziele-des-jahres,2023-05,2023-01-28,Europe
+Malta,"['24.04.2023', '05.05.2023']",42,beste-urlaubsziele-des-jahres,2023-04,2023-01-28,Europe
+Thessaloniki,"['24.02.2023', '04.03.2023']",93,beste-urlaubsziele-des-jahres,2023-02,2023-01-28,Europe
+Malta,"['30.10.2023', '03.11.2023']",146,beste-urlaubsziele-des-jahres,2023-10,2023-01-28,Europe
+Halifax,"['08.03.2023', '27.03.2023']",433,beste-urlaubsziele-des-jahres,2023-03,2023-01-28,Europe
+Kuala Lumpur,"['21.09.2023', '10.10.2023']",572,beste-urlaubsziele-des-jahres,2023-09,2023-01-28,Asia
+Bogota,"['18.10.2023', '14.11.2023']",589,beste-urlaubsziele-des-jahres,2023-10,2023-01-28,Karibik
+Johannesburg,"['02.12.2023', '26.12.2023']",594,beste-urlaubsziele-des-jahres,2023-12,2023-01-28,Africa
+Lima,"['20.08.2023', '03.09.2023']",713,beste-urlaubsziele-des-jahres,2023-08,2023-01-28,Karibik
+Kapstadt,"['02.12.2023', '24.12.2023']",736,beste-urlaubsziele-des-jahres,2023-12,2023-01-28,Africa
+Medellin,"['04.12.2023', '15.12.2023']",810,beste-urlaubsziele-des-jahres,2023-12,2023-01-28,
+Perth,"['01.11.2023', '28.11.2023']",882,beste-urlaubsziele-des-jahres,2023-11,2023-01-28,Asia
+Baku,"['03.04.2023', '15.04.2023']",287,osterferien,2023-04,2023-01-28,
+Palermo,"['22.09.2023', '29.09.2023']",81,wo-urlaub-aktuell-moeglich-ist,2023-09,2023-01-28,Europe Italy
+Malaga,"['07.10.2023', '14.10.2023']",146,wo-urlaub-aktuell-moeglich-ist,2023-10,2023-01-28,Europe Spain
+Granada,"['04.03.2023', '18.03.2023']",147,wo-urlaub-aktuell-moeglich-ist,2023-03,2023-01-28,
+Menorca,"['25.03.2023', '01.04.2023']",147,wo-urlaub-aktuell-moeglich-ist,2023-03,2023-01-28,Europe Spain
+Sevilla,"['30.09.2023', '10.10.2023']",147,wo-urlaub-aktuell-moeglich-ist,2023-09,2023-01-28,Europe Spain
+Las Palmas,"['12.09.2023', '27.09.2023']",149,wo-urlaub-aktuell-moeglich-ist,2023-09,2023-01-28,Europe Spain
+Jerez de la Frontera,"['13.09.2023', '28.09.2023']",205,wo-urlaub-aktuell-moeglich-ist,2023-09,2023-01-28,Europe Spain
+Bangkok,"['16.09.2023', '03.10.2023']",460,wo-urlaub-aktuell-moeglich-ist,2023-09,2023-01-28,Asia
+Colombo,"['01.10.2023', '13.10.2023']",589,wo-urlaub-aktuell-moeglich-ist,2023-10,2023-01-28,Asia
+Las Palmas,"['19.03.2023', '30.03.2023']",88,kanaren,2023-03,2023-01-28,Europe Spain
+Las Palmas,"['03.05.2023', '17.05.2023']",141,kanaren,2023-05,2023-01-28,Europe Spain
+Teneriffa Süd,"['03.02.2023', '06.02.2023']",142,kanaren,2023-02,2023-01-28,Europe Spain
+Fuerteventura,"['08.03.2023', '14.03.2023']",144,kanaren,2023-03,2023-01-28,Karibik
+Santa Cruz de La Palma,"['12.04.2023', '26.04.2023']",147,kanaren,2023-04,2023-01-28,
+Athen,"['28.09.2023', '09.10.2023']",146,black-friday,2023-09,2023-01-28,Europe
+Riga,"['06.02.2023', '10.02.2023']",29,gutscheine,2023-02,2023-01-28,Europe
+Catania,"['04.03.2023', '11.03.2023']",40,gutscheine,2023-03,2023-01-28,Europe Italy
+Alicante,"['21.04.2023', '25.04.2023']",41,gutscheine,2023-04,2023-01-28,Europe Spain
+Neapel,"['26.03.2023', '30.03.2023']",41,gutscheine,2023-03,2023-01-28,Europe Italy
+Valencia,"['11.05.2023', '15.05.2023']",45,gutscheine,2023-05,2023-01-28,Europe Spain
+Porto,"['06.05.2023', '13.05.2023']",49,gutscheine,2023-05,2023-01-28,Europe Spain
+Malta,"['15.05.2023', '19.05.2023']",52,gutscheine,2023-05,2023-01-28,Europe
+Korfu,"['28.04.2023', '12.05.2023']",63,gutscheine,2023-04,2023-01-28,Europe
+Chania,"['29.03.2023', '02.04.2023']",74,gutscheine,2023-03,2023-01-28,Europe
+Madrid,"['17.09.2023', '20.09.2023']",101,gutscheine,2023-09,2023-01-28,Europe Spain
+Athen,"['15.10.2023', '23.10.2023']",136,gutscheine,2023-10,2023-01-28,Europe
+Lissabon,"['20.10.2023', '26.10.2023']",145,gutscheine,2023-10,2023-01-28,Europe Spain
+Chania,"['16.09.2023', '27.09.2023']",147,gutscheine,2023-09,2023-01-28,Europe
+Kreta Heraklion,"['10.09.2023', '18.09.2023']",147,gutscheine,2023-09,2023-01-28,Europe
+Bangkok,"['06.12.2023', '21.12.2023']",460,gutscheine,2023-12,2023-01-28,Asia
